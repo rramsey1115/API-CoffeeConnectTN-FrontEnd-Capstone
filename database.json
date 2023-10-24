@@ -139,169 +139,169 @@
   "posts": [
     {
       "id": 1,
-      "coffeeShopId": "G8pVaj3yS503ah8fxncDVA",
+      "businessId": "G8pVaj3yS503ah8fxncDVA",
       "userId": 2,
       "text": "this place is great, we all love it, we come here every time my grandma has a birthday!"
     },
     {
       "id": 2,
-      "coffeeShopId": "G8pVaj3yS503ah8fxncDVA",
+      "businessId": "G8pVaj3yS503ah8fxncDVA",
       "userId": 3,
       "text": "I have edited this post, made sure the correct information is posted to the database, and the page will reload the comment based on new data. Yay!"
     },
     {
       "id": 3,
-      "coffeeShopId": "ReX09lhufLTAx19krkltDA",
+      "businessId": "ReX09lhufLTAx19krkltDA",
       "userId": 4,
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet mauris commodo quis imperdiet massa tincidunt nunc pulvinar. Dictum non consectetur a erat nam. Turpis cursus in hac habitasse platea dictumst quisque."
     },
     {
       "id": 4,
-      "coffeeShopId": "ReX09lhufLTAx19krkltDA",
+      "businessId": "ReX09lhufLTAx19krkltDA",
       "userId": 5,
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt arcu non sodales neque sodales. Dolor magna eget est lorem ipsum dolor sit. Senectus et netus et malesuada fames ac turpis egestas sed."
     },
     {
       "id": 5,
-      "coffeeShopId": "G8pVaj3yS503ah8fxncDVA",
+      "businessId": "G8pVaj3yS503ah8fxncDVA",
       "userId": 6,
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. A diam sollicitudin tempor id eu nisl nunc mi. Commodo quis imperdiet massa tincidunt nunc pulvinar sapien et ligula. Viverra nam libero justo laoreet sit."
     },
     {
       "id": 6,
-      "coffeeShopId": "yZHiutcbym-xLGkmFhP-9A",
+      "businessId": "yZHiutcbym-xLGkmFhP-9A",
       "userId": 7,
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque purus semper eget duis at. A arcu cursus vitae congue mauris rhoncus aenean vel elit. Facilisis magna etiam tempor orci eu."
     },
     {
       "id": 7,
-      "coffeeShopId": "wUZXm4KN2wIqlfkvXVZXUw",
+      "businessId": "wUZXm4KN2wIqlfkvXVZXUw",
       "userId": 8,
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aenean euismod elementum nisi quis eleifend. Enim nunc faucibus a pellentesque. Facilisis gravida neque convallis a cras semper auctor neque."
     },
     {
       "id": 8,
-      "coffeeShopId": "yZHiutcbym-xLGkmFhP-9A",
+      "businessId": "yZHiutcbym-xLGkmFhP-9A",
       "userId": 9,
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu non diam phasellus vestibulum lorem sed risus ultricies tristique. Scelerisque fermentum dui faucibus in ornare quam viverra orci sagittis. Adipiscing elit ut aliquam purus sit amet luctus venenatis."
     },
     {
       "id": 9,
-      "coffeeShopId": "wUZXm4KN2wIqlfkvXVZXUw",
+      "businessId": "wUZXm4KN2wIqlfkvXVZXUw",
       "userId": 10,
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet mauris commodo quis. Nulla pharetra diam sit amet. Pharetra sit amet aliquam id diam."
     },
     {
       "id": 10,
-      "coffeeShopId": "bZcW_CPll-WaAgciSLPyrA",
+      "businessId": "bZcW_CPll-WaAgciSLPyrA",
       "userId": 2,
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet tellus cras adipiscing. Tempus urna et pharetra pharetra massa massa ultricies mi. Id diam vel quam elementum pulvinar."
     },
     {
       "id": 11,
-      "coffeeShopId": "6FX09pOrazvGT9s6_nQ7CQ",
+      "businessId": "6FX09pOrazvGT9s6_nQ7CQ",
       "userId": 3,
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas diam in arcu cursus euismod quis viverra. Vitae elementum curabitur vitae nunc sed. Vestibulum lorem sed risus ultricies tristique nulla aliquet."
     },
     {
       "id": 12,
-      "coffeeShopId": "6FX09pOrazvGT9s6_nQ7CQ",
+      "businessId": "6FX09pOrazvGT9s6_nQ7CQ",
       "userId": 3,
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas diam in arcu cursus euismod quis viverra. Vitae elementum curabitur vitae nunc sed. Vestibulum lorem sed risus ultricies tristique nulla aliquet."
     },
     {
       "id": 13,
-      "coffeeShopId": "G8pVaj3yS503ah8fxncDVA",
+      "businessId": "G8pVaj3yS503ah8fxncDVA",
       "userId": 4,
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas diam in arcu cursus euismod quis viverra. Vitae elementum curabitur vitae nunc sed. Vestibulum lorem sed risus ultricies tristique nulla aliquet."
     },
     {
       "id": 14,
-      "coffeeShopId": "G8pVaj3yS503ah8fxncDVA",
+      "businessId": "G8pVaj3yS503ah8fxncDVA",
       "userId": 5,
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas diam in arcu cursus euismod quis viverra. Vitae elementum curabitur vitae nunc sed. Vestibulum lorem sed risus ultricies tristique nulla aliquet."
     },
     {
       "userId": 3,
-      "coffeeShopId": "G8pVaj3yS503ah8fxncDVA",
+      "businessId": "G8pVaj3yS503ah8fxncDVA",
       "text": "Creating a new post!",
       "id": 15
     },
     {
       "userId": 12,
-      "coffeeShopId": "G2okUNH-Jeks8hqJvSilcw",
+      "businessId": "G2okUNH-Jeks8hqJvSilcw",
       "text": "This isn't really a coffee shop, so if you see it pop up on your results, save your time and go elsewhere. This is primarily a cocktail bar/lounge. They DO serve coffee, but it's not great.",
       "id": 16
     },
     {
       "userId": 12,
-      "coffeeShopId": "bZcW_CPll-WaAgciSLPyrA",
+      "businessId": "bZcW_CPll-WaAgciSLPyrA",
       "text": "This place has great baked goods! Wouldn't necessarily come for the coffee experiences but the food is yummy. ",
       "id": 17
     },
     {
       "userId": 12,
-      "coffeeShopId": "wUZXm4KN2wIqlfkvXVZXUw",
+      "businessId": "wUZXm4KN2wIqlfkvXVZXUw",
       "text": "Coffee is subpar and the atmosphere was very crowded. Decent place to go with friends, or stop in quickly. Would not recommend for work or calm atmosphere.",
       "id": 18
     },
     {
       "userId": 15,
-      "coffeeShopId": "t817VgRaEHcTrQuW76xAkw",
+      "businessId": "t817VgRaEHcTrQuW76xAkw",
       "text": "More of a restaurant, not really a coffee shop. Go for the food and have some okay coffee if you are wanting an overpriced breakfast.",
       "id": 19
     },
     {
       "userId": 15,
-      "coffeeShopId": "6FX09pOrazvGT9s6_nQ7CQ",
+      "businessId": "6FX09pOrazvGT9s6_nQ7CQ",
       "text": "This place is full of tourists and the menu is too large. Try doing black coffee and espresso based classics well first before branching out. Pass!",
       "id": 20
     },
     {
       "userId": 15,
-      "coffeeShopId": "wUZXm4KN2wIqlfkvXVZXUw",
+      "businessId": "wUZXm4KN2wIqlfkvXVZXUw",
       "text": "This place was the first visit I made in Nashville. Decent coffee and nice location. I would prefer something a little more intimate next time, but a great option if you are in the area.",
       "id": 21
     },
     {
       "userId": 15,
-      "coffeeShopId": "_3U2YwnbcdtDc1UVvjUrkw",
+      "businessId": "_3U2YwnbcdtDc1UVvjUrkw",
       "text": "This place is fun and cute, but I had a bad experience trying to order a traditional cappuccino. There is only ONE size of cappuccino, please don't ask if I would like a 12oz, 16oz, or 20oz!",
       "id": 22
     },
     {
       "userId": 14,
-      "coffeeShopId": "ooUI-JC2tu0J-vavmOHZYQ",
+      "businessId": "ooUI-JC2tu0J-vavmOHZYQ",
       "text": "Not a coffee shop obviously. But I just had to say something. ",
       "id": 23
     },
     {
       "userId": 14,
-      "coffeeShopId": "6FX09pOrazvGT9s6_nQ7CQ",
+      "businessId": "6FX09pOrazvGT9s6_nQ7CQ",
       "text": "I like this place, but it is very busy. Food is nice and coffee menu has lots of selection. Be ready to wait in line if you go during weekend. ",
       "id": 24
     },
     {
       "userId": 14,
-      "coffeeShopId": "G2okUNH-Jeks8hqJvSilcw",
+      "businessId": "G2okUNH-Jeks8hqJvSilcw",
       "text": "Not a coffee shop obviously, but I had to say something. ",
       "id": 25
     },
     {
       "userId": 14,
-      "coffeeShopId": "yZHiutcbym-xLGkmFhP-9A",
+      "businessId": "yZHiutcbym-xLGkmFhP-9A",
       "text": "I love 12South neighborhood, but it was better 5 years ago before it was quite so developed and busy. I wish this place was still on my regular rotation, but I just cant stand the crowds anymore. Such is Nashville, I guess.",
       "id": 26
     },
     {
       "userId": 14,
-      "coffeeShopId": "B9MAfqhVw1AxNzwu2ELPtQ",
+      "businessId": "B9MAfqhVw1AxNzwu2ELPtQ",
       "text": "Very cool place! Definitely worth a trip if you are nearby or looking for a new adventure. I love the food options and the coffee is surprisingly good. They use locally roasted beans and keep it simple.",
       "id": 27
     },
     {
       "userId": 14,
-      "coffeeShopId": "ReX09lhufLTAx19krkltDA",
+      "businessId": "ReX09lhufLTAx19krkltDA",
       "text": "Go for the brunch, not as a coffee shop necessarily. I do enjoy this place though! Great place to go with those friends who are in town for a visit. ",
       "id": 28
     }
@@ -310,92 +310,92 @@
     {
       "id": 1,
       "userId": 2,
-      "coffeeShopId": "G8pVaj3yS503ah8fxncDVA"
+      "businessId": "G8pVaj3yS503ah8fxncDVA"
     },
     {
       "id": 2,
       "userId": 2,
-      "coffeeShopId": "wUZXm4KN2wIqlfkvXVZXUw"
+      "businessId": "wUZXm4KN2wIqlfkvXVZXUw"
     },
     {
       "id": 3,
       "userId": 3,
-      "coffeeShopId": "wUZXm4KN2wIqlfkvXVZXUw"
+      "businessId": "wUZXm4KN2wIqlfkvXVZXUw"
     },
     {
       "id": 4,
       "userId": 3,
-      "coffeeShopId": "G8pVaj3yS503ah8fxncDVA"
+      "businessId": "G8pVaj3yS503ah8fxncDVA"
     },
     {
       "id": 5,
       "userId": 4,
-      "coffeeShopId": "_3U2YwnbcdtDc1UVvjUrkw"
+      "businessId": "_3U2YwnbcdtDc1UVvjUrkw"
     },
     {
       "id": 6,
       "userId": 4,
-      "coffeeShopId": "6FX09pOrazvGT9s6_nQ7CQ"
+      "businessId": "6FX09pOrazvGT9s6_nQ7CQ"
     },
     {
       "id": 7,
       "userId": 5,
-      "coffeeShopId": "G8pVaj3yS503ah8fxncDVA"
+      "businessId": "G8pVaj3yS503ah8fxncDVA"
     },
     {
       "id": 8,
       "userId": 5,
-      "coffeeShopId": "_vZSIIqBsw_IUmxqNVOALA"
+      "businessId": "_vZSIIqBsw_IUmxqNVOALA"
     },
     {
       "id": 9,
       "userId": 6,
-      "coffeeShopId": "_3U2YwnbcdtDc1UVvjUrkw"
+      "businessId": "_3U2YwnbcdtDc1UVvjUrkw"
     },
     {
       "id": 10,
       "userId": 6,
-      "coffeeShopId": "ReX09lhufLTAx19krkltDA"
+      "businessId": "ReX09lhufLTAx19krkltDA"
     },
     {
       "id": 11,
       "userId": 7,
-      "coffeeShopId": "wUZXm4KN2wIqlfkvXVZXUw"
+      "businessId": "wUZXm4KN2wIqlfkvXVZXUw"
     },
     {
       "id": 12,
       "userId": 7,
-      "coffeeShopId": "yZHiutcbym-xLGkmFhP-9A"
+      "businessId": "yZHiutcbym-xLGkmFhP-9A"
     },
     {
       "id": 13,
       "userId": 8,
-      "coffeeShopId": "rs2OZH_vIKgW2Zk59OnZ2A"
+      "businessId": "rs2OZH_vIKgW2Zk59OnZ2A"
     },
     {
       "id": 14,
       "userId": 9,
-      "coffeeShopId": "yZHiutcbym-xLGkmFhP-9A"
+      "businessId": "yZHiutcbym-xLGkmFhP-9A"
     },
     {
       "id": 15,
       "userId": 9,
-      "coffeeShopId": "_vZSIIqBsw_IUmxqNVOALA"
+      "businessId": "_vZSIIqBsw_IUmxqNVOALA"
     },
     {
       "id": 16,
       "userId": 10,
-      "coffeeShopId": "ReX09lhufLTAx19krkltDA"
+      "businessId": "ReX09lhufLTAx19krkltDA"
     },
     {
       "id": 17,
       "userId": 10,
-      "coffeeShopId": "G8pVaj3yS503ah8fxncDVA"
+      "businessId": "G8pVaj3yS503ah8fxncDVA"
     },
     {
       "id": 18,
       "userId": 2,
-      "coffeeShopId": "ReX09lhufLTAx19krkltDA"
+      "businessId": "ReX09lhufLTAx19krkltDA"
     }
   ],
   "businesses": [
