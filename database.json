@@ -98,6 +98,15 @@
       "about": "I am a graduate student at Belmont University, but am originally from Pennsylvania. I am looking to make some new social connections in the Nashville area. I love doing homework and hanging out at coffee shops, so I would love to meet some people with similar interests as me. I look forward to discovering this new city and new friends!",
       "admin": false,
       "id": 11
+    },
+    {
+      "email": "ishaan@ishaan.com",
+      "password": "ishaan",
+      "name": "Ishaan Ahad",
+      "picture": "https://images.pexels.com/photos/17136147/pexels-photo-17136147/free-photo-of-indian-traditional-beard-man.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "about": "My name is Ishaan, I am from New York City, but recently moved to Nashville. I am Founder and CEO of a tech startup, so I love getting out to coffee shops in the area to work on my laptop. Coming from NYC coffee shops, I am always looking for the best espresso pulls, no frills coffee only. ",
+      "admin": false,
+      "id": 12
     }
   ],
   "posts": [
