@@ -107,6 +107,33 @@
       "about": "My name is Ishaan, I am from New York City, but recently moved to Nashville. I am Founder and CEO of a tech startup, so I love getting out to coffee shops in the area to work on my laptop. Coming from NYC coffee shops, I am always looking for the best espresso pulls, no frills coffee only. ",
       "admin": false,
       "id": 12
+    },
+    {
+      "email": "lizzy@lizyy.com",
+      "password": "lizzy",
+      "name": "Lizzy Ng",
+      "picture": "https://images.pexels.com/photos/1520760/pexels-photo-1520760.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "about": "Hi! I am Lizzzy, and I just want to explore and have fun being social in different coffee shops! I love to travel and explore with my friends.",
+      "admin": false,
+      "id": 13
+    },
+    {
+      "email": "herb@herb.com",
+      "password": "herb",
+      "name": "Herbert Foster",
+      "picture": "https://images.pexels.com/photos/3483800/pexels-photo-3483800.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "about": "I am interested in finding the best quality coffee experience. I only care about coffee taste in a quiet and cozy atmosphere. Look forward to learning more with this app.",
+      "admin": false,
+      "id": 14
+    },
+    {
+      "email": "irina@irina.com",
+      "password": "irina",
+      "name": "Irina Kovalinko",
+      "picture": "https://images.pexels.com/photos/10051767/pexels-photo-10051767.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "about": "I am Irina, I moved to the US three years ago, and love the coffee culture of my new city. I love espresso drinks, usually cortado! Please recommend any places with bold roasts. ",
+      "admin": false,
+      "id": 15
     }
   ],
   "posts": [
@@ -199,6 +226,84 @@
       "coffeeShopId": "G8pVaj3yS503ah8fxncDVA",
       "text": "Creating a new post!",
       "id": 15
+    },
+    {
+      "userId": 12,
+      "coffeeShopId": "G2okUNH-Jeks8hqJvSilcw",
+      "text": "This isn't really a coffee shop, so if you see it pop up on your results, save your time and go elsewhere. This is primarily a cocktail bar/lounge. They DO serve coffee, but it's not great.",
+      "id": 16
+    },
+    {
+      "userId": 12,
+      "coffeeShopId": "bZcW_CPll-WaAgciSLPyrA",
+      "text": "This place has great baked goods! Wouldn't necessarily come for the coffee experiences but the food is yummy. ",
+      "id": 17
+    },
+    {
+      "userId": 12,
+      "coffeeShopId": "wUZXm4KN2wIqlfkvXVZXUw",
+      "text": "Coffee is subpar and the atmosphere was very crowded. Decent place to go with friends, or stop in quickly. Would not recommend for work or calm atmosphere.",
+      "id": 18
+    },
+    {
+      "userId": 15,
+      "coffeeShopId": "t817VgRaEHcTrQuW76xAkw",
+      "text": "More of a restaurant, not really a coffee shop. Go for the food and have some okay coffee if you are wanting an overpriced breakfast.",
+      "id": 19
+    },
+    {
+      "userId": 15,
+      "coffeeShopId": "6FX09pOrazvGT9s6_nQ7CQ",
+      "text": "This place is full of tourists and the menu is too large. Try doing black coffee and espresso based classics well first before branching out. Pass!",
+      "id": 20
+    },
+    {
+      "userId": 15,
+      "coffeeShopId": "wUZXm4KN2wIqlfkvXVZXUw",
+      "text": "This place was the first visit I made in Nashville. Decent coffee and nice location. I would prefer something a little more intimate next time, but a great option if you are in the area.",
+      "id": 21
+    },
+    {
+      "userId": 15,
+      "coffeeShopId": "_3U2YwnbcdtDc1UVvjUrkw",
+      "text": "This place is fun and cute, but I had a bad experience trying to order a traditional cappuccino. There is only ONE size of cappuccino, please don't ask if I would like a 12oz, 16oz, or 20oz!",
+      "id": 22
+    },
+    {
+      "userId": 14,
+      "coffeeShopId": "ooUI-JC2tu0J-vavmOHZYQ",
+      "text": "Not a coffee shop obviously. But I just had to say something. ",
+      "id": 23
+    },
+    {
+      "userId": 14,
+      "coffeeShopId": "6FX09pOrazvGT9s6_nQ7CQ",
+      "text": "I like this place, but it is very busy. Food is nice and coffee menu has lots of selection. Be ready to wait in line if you go during weekend. ",
+      "id": 24
+    },
+    {
+      "userId": 14,
+      "coffeeShopId": "G2okUNH-Jeks8hqJvSilcw",
+      "text": "Not a coffee shop obviously, but I had to say something. ",
+      "id": 25
+    },
+    {
+      "userId": 14,
+      "coffeeShopId": "yZHiutcbym-xLGkmFhP-9A",
+      "text": "I love 12South neighborhood, but it was better 5 years ago before it was quite so developed and busy. I wish this place was still on my regular rotation, but I just cant stand the crowds anymore. Such is Nashville, I guess.",
+      "id": 26
+    },
+    {
+      "userId": 14,
+      "coffeeShopId": "B9MAfqhVw1AxNzwu2ELPtQ",
+      "text": "Very cool place! Definitely worth a trip if you are nearby or looking for a new adventure. I love the food options and the coffee is surprisingly good. They use locally roasted beans and keep it simple.",
+      "id": 27
+    },
+    {
+      "userId": 14,
+      "coffeeShopId": "ReX09lhufLTAx19krkltDA",
+      "text": "Go for the brunch, not as a coffee shop necessarily. I do enjoy this place though! Great place to go with those friends who are in town for a visit. ",
+      "id": 28
     }
   ],
   "favorites": [
