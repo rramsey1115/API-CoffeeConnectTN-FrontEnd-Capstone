@@ -144,12 +144,6 @@
       "text": "this place is great, we all love it, we come here every time my grandma has a birthday!"
     },
     {
-      "id": 2,
-      "businessId": "G8pVaj3yS503ah8fxncDVA",
-      "userId": 3,
-      "text": "I have edited this post, made sure the correct information is posted to the database, and the page will reload the comment based on new data. Yay!"
-    },
-    {
       "id": 3,
       "businessId": "ReX09lhufLTAx19krkltDA",
       "userId": 4,
@@ -394,8 +388,63 @@
     },
     {
       "id": 18,
-      "userId": 2,
+      "userId":11,
+      "businessId": "t817VgRaEHcTrQuW76xAkw"
+    },
+    {
+      "id": 19,
+      "userId": 11,
       "businessId": "ReX09lhufLTAx19krkltDA"
+    },
+    {
+      "id": 20,
+      "userId": 12,
+      "businessId": "_3U2YwnbcdtDc1UVvjUrkw"
+    },
+    {
+      "id": 21,
+      "userId": 12,
+      "businessId": "B9MAfqhVw1AxNzwu2ELPtQ"
+    },
+    {
+      "id": 22,
+      "userId": 13,
+      "businessId": "2jwUldEzfMAjPQVCgljLCg"
+    },
+    {
+      "id": 23,
+      "userId": 13,
+      "businessId": "B9MAfqhVw1AxNzwu2ELPtQ"
+    },
+    {
+      "id": 24,
+      "userId": 13,
+      "businessId": "_3U2YwnbcdtDc1UVvjUrkw"
+    },
+    {
+      "id": 25,
+      "userId": 14,
+      "businessId": "ReX09lhufLTAx19krkltDA"
+    },
+    {
+      "id": 26,
+      "userId": 14,
+      "businessId": "wUZXm4KN2wIqlfkvXVZXUw"
+    },
+    {
+      "id": 27,
+      "userId": 3,
+      "businessId": "bZcW_CPll-WaAgciSLPyrA"
+    },
+    {
+      "id": 28,
+      "userId": 4,
+      "businessId": "bZcW_CPll-WaAgciSLPyrA"
+    },
+    {
+      "id": 29,
+      "userId": 5,
+      "businessId": "yZHiutcbym-xLGkmFhP-9A"
     }
   ],
   "businesses": [
@@ -685,55 +734,6 @@
       "phone": "+16157309139",
       "display_phone": "(615) 730-9139",
       "distance": 2203.500552595754
-    },
-    {
-      "id": "ooUI-JC2tu0J-vavmOHZYQ",
-      "alias": "vn-pho-and-deli-nashville",
-      "name": "VN Pho & Deli",
-      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Xz9RzFnH4CULLpah5lUMwg/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/vn-pho-and-deli-nashville?adjust_creative=xHUh4H8gU4oEypJVLjfS3A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=xHUh4H8gU4oEypJVLjfS3A",
-      "review_count": 509,
-      "categories": [
-        {
-          "alias": "vietnamese",
-          "title": "Vietnamese"
-        },
-        {
-          "alias": "sandwiches",
-          "title": "Sandwiches"
-        },
-        {
-          "alias": "coffee",
-          "title": "Coffee & Tea"
-        }
-      ],
-      "rating": 4.5,
-      "coordinates": {
-        "latitude": 36.14921,
-        "longitude": -86.86406
-      },
-      "transactions": [
-        "delivery"
-      ],
-      "price": "$$",
-      "location": {
-        "address1": "5906 Charlotte Pike",
-        "address2": "Ste C",
-        "address3": "",
-        "city": "Nashville",
-        "zip_code": "37209",
-        "country": "US",
-        "state": "TN",
-        "display_address": [
-          "5906 Charlotte Pike",
-          "Ste C",
-          "Nashville, TN 37209"
-        ]
-      },
-      "phone": "+16153565995",
-      "display_phone": "(615) 356-5995",
-      "distance": 8058.98494991106
     },
     {
       "id": "wUZXm4KN2wIqlfkvXVZXUw",
