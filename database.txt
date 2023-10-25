@@ -69,7 +69,7 @@
       "email": "mike@mike.com",
       "password": "mike",
       "name": "Mike Scott",
-      "picture": "https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "picture": "https://images.pexels.com/photos/9968247/pexels-photo-9968247.jpeg?auto=compress&cs=tinysrgb&w=800",
       "about": "I recently was released from prison, and the thing I missed most was good quality coffee. Can't wait to start exploring local coffee shops. I would love to find some places which have outdoor seating since I have been locked up so long."
     },
     {
@@ -109,7 +109,7 @@
       "id": 12
     },
     {
-      "email": "lizzy@lizyy.com",
+      "email": "lizzy@lizzy.com",
       "password": "lizzy",
       "name": "Lizzy Ng",
       "picture": "https://images.pexels.com/photos/1520760/pexels-photo-1520760.jpeg?auto=compress&cs=tinysrgb&w=800",
@@ -216,12 +216,6 @@
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas diam in arcu cursus euismod quis viverra. Vitae elementum curabitur vitae nunc sed. Vestibulum lorem sed risus ultricies tristique nulla aliquet."
     },
     {
-      "userId": 3,
-      "businessId": "G8pVaj3yS503ah8fxncDVA",
-      "text": "Creating a new post!",
-      "id": 15
-    },
-    {
       "userId": 12,
       "businessId": "G2okUNH-Jeks8hqJvSilcw",
       "text": "This isn't really a coffee shop, so if you see it pop up on your results, save your time and go elsewhere. This is primarily a cocktail bar/lounge. They DO serve coffee, but it's not great.",
@@ -265,12 +259,6 @@
     },
     {
       "userId": 14,
-      "businessId": "ooUI-JC2tu0J-vavmOHZYQ",
-      "text": "Not a coffee shop obviously. But I just had to say something. ",
-      "id": 23
-    },
-    {
-      "userId": 14,
       "businessId": "6FX09pOrazvGT9s6_nQ7CQ",
       "text": "I like this place, but it is very busy. Food is nice and coffee menu has lots of selection. Be ready to wait in line if you go during weekend. ",
       "id": 24
@@ -298,6 +286,48 @@
       "businessId": "ReX09lhufLTAx19krkltDA",
       "text": "Go for the brunch, not as a coffee shop necessarily. I do enjoy this place though! Great place to go with those friends who are in town for a visit. ",
       "id": 28
+    },
+    {
+      "userId": 12,
+      "businessId": "ReX09lhufLTAx19krkltDA",
+      "text": "I did not enjoy this place! Do NOT recommend! SO rude!",
+      "id": 29
+    },
+    {
+      "userId": 12,
+      "businessId": "rs2OZH_vIKgW2Zk59OnZ2A",
+      "text": "Neat place! I enjoy the location because I live nearby and the service is always very fast. The food is not great for the price, but the coffee is amazing.",
+      "id": 30
+    },
+    {
+      "userId": 12,
+      "businessId": "B9MAfqhVw1AxNzwu2ELPtQ",
+      "text": "I added to my favorites because it is the most affordable great breakfast food with great flavor and spices! Great locally roasted beans and coffee. ",
+      "id": 31
+    },
+    {
+      "userId": 13,
+      "businessId": "2jwUldEzfMAjPQVCgljLCg",
+      "text": "Best sweet treats around! Highly recommend if you want some donuts and coffee. Great seasonal rotation of donuts and flavored drinks.",
+      "id": 32
+    },
+    {
+      "userId": 13,
+      "businessId": "_3U2YwnbcdtDc1UVvjUrkw",
+      "text": "This place was good, but not great. I liked the coffee, but most of their drinks seem to contain lots of sweeteners and flavor additives. If you want that type of drink this is your place. If you want something more traditional, you might look elsewhere.",
+      "id": 33
+    },
+    {
+      "id": 34,
+      "businessId": "5KxfyMYdLWzSIfrYnrt5MA",
+      "userId": 13,
+      "text": "One of my favorite places to go with my friends. Very convenient to where I live, but worth the trip if you want a little less crowded option in Nashville. "
+    },
+    {
+      "userId": 8,
+      "businessId": "ElqoiaCSUA8oyyvixox9lQ",
+      "text": "One of my favorites! Definitely go for the avocado toast and flat white!",
+      "id": 35
     }
   ],
   "favorites": [
@@ -388,7 +418,7 @@
     },
     {
       "id": 18,
-      "userId":11,
+      "userId": 11,
       "businessId": "RA4MK-QyDxezQzYgliHHCg"
     },
     {
@@ -405,16 +435,6 @@
       "id": 21,
       "userId": 12,
       "businessId": "B9MAfqhVw1AxNzwu2ELPtQ"
-    },
-    {
-      "id": 22,
-      "userId": 13,
-      "businessId": "2jwUldEzfMAjPQVCgljLCg"
-    },
-    {
-      "id": 23,
-      "userId": 13,
-      "businessId": "AFk6UXFbH-idH31KhFQVCg"
     },
     {
       "id": 24,
@@ -460,6 +480,26 @@
       "id": 32,
       "userId": 15,
       "businessId": "yZHiutcbym-xLGkmFhP-9A"
+    },
+    {
+      "userId": 13,
+      "businessId": "AFk6UXFbH-idH31KhFQVCg",
+      "id": 33
+    },
+    {
+      "userId": 13,
+      "businessId": "5KxfyMYdLWzSIfrYnrt5MA",
+      "id": 34
+    },
+    {
+      "userId": 8,
+      "businessId": "ElqoiaCSUA8oyyvixox9lQ",
+      "id": 35
+    },
+    {
+      "userId": 8,
+      "businessId": "ReX09lhufLTAx19krkltDA",
+      "id": 36
     }
   ],
   "businesses": [

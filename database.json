@@ -69,7 +69,7 @@
       "email": "mike@mike.com",
       "password": "mike",
       "name": "Mike Scott",
-      "picture": "https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "picture": "https://images.pexels.com/photos/9968247/pexels-photo-9968247.jpeg?auto=compress&cs=tinysrgb&w=800",
       "about": "I recently was released from prison, and the thing I missed most was good quality coffee. Can't wait to start exploring local coffee shops. I would love to find some places which have outdoor seating since I have been locked up so long."
     },
     {
@@ -316,6 +316,18 @@
       "businessId": "_3U2YwnbcdtDc1UVvjUrkw",
       "text": "This place was good, but not great. I liked the coffee, but most of their drinks seem to contain lots of sweeteners and flavor additives. If you want that type of drink this is your place. If you want something more traditional, you might look elsewhere.",
       "id": 33
+    },
+    {
+      "id": 34,
+      "businessId": "5KxfyMYdLWzSIfrYnrt5MA",
+      "userId": 13,
+      "text": "One of my favorite places to go with my friends. Very convenient to where I live, but worth the trip if you want a little less crowded option in Nashville. "
+    },
+    {
+      "userId": 8,
+      "businessId": "ElqoiaCSUA8oyyvixox9lQ",
+      "text": "One of my favorites! Definitely go for the avocado toast and flat white!",
+      "id": 35
     }
   ],
   "favorites": [
@@ -425,11 +437,6 @@
       "businessId": "B9MAfqhVw1AxNzwu2ELPtQ"
     },
     {
-      "id": 22,
-      "userId": 13,
-      "businessId": "2jwUldEzfMAjPQVCgljLCg"
-    },
-    {
       "id": 24,
       "userId": 13,
       "businessId": "_3U2YwnbcdtDc1UVvjUrkw"
@@ -478,6 +485,21 @@
       "userId": 13,
       "businessId": "AFk6UXFbH-idH31KhFQVCg",
       "id": 33
+    },
+    {
+      "userId": 13,
+      "businessId": "5KxfyMYdLWzSIfrYnrt5MA",
+      "id": 34
+    },
+    {
+      "userId": 8,
+      "businessId": "ElqoiaCSUA8oyyvixox9lQ",
+      "id": 35
+    },
+    {
+      "userId": 8,
+      "businessId": "ReX09lhufLTAx19krkltDA",
+      "id": 36
     }
   ],
   "businesses": [
