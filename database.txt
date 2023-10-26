@@ -328,6 +328,12 @@
       "businessId": "ElqoiaCSUA8oyyvixox9lQ",
       "text": "One of my favorites! Definitely go for the avocado toast and flat white!",
       "id": 35
+    },
+    {
+      "id": 36,
+      "businessId": "rs2OZH_vIKgW2Zk59OnZ2A",
+      "userId": 8,
+      "text": "I chose to favorite this coffee shop based on great customer service on multiple visits. I love their coffee, but the pastries have been a bit dry/stale at times. Despite that very small complaint, one of the best shops in Nashville!"
     }
   ],
   "favorites": [
