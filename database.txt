@@ -7,7 +7,9 @@
       "password": "admin",
       "name": "Administrator",
       "picture": "https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "about": "Founder, Owner, and Operator of Cafe Connect, as well as several fortune 500 companies."
+      "about": "Founder, Owner, and Operator of Cafe Connect, as well as several fortune 500 companies.",
+      "coffeePreferenceId": 1,
+      "atmospherePreferenceId": 2
     },
     {
       "id": 2,
@@ -16,7 +18,9 @@
       "password": "user",
       "name": "Test User",
       "picture": "https://images.pexels.com/photos/3370021/pexels-photo-3370021.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "about": "I love black coffee to start my day and looking for the coziest warmest atmospheres to enjoy my cup of joe each day. Please enjoy my reviews of local spots and I look forward to seeing your experiences as well!"
+      "about": "I love black coffee to start my day and looking for the coziest warmest atmospheres to enjoy my cup of joe each day. Please enjoy my reviews of local spots and I look forward to seeing your experiences as well!",
+      "coffeePreferenceId": 2,
+      "atmospherePreferenceId": 1
     },
     {
       "id": 3,
@@ -25,7 +29,9 @@
       "password": "suzanne",
       "name": "Suzanne Warner",
       "picture": "https://images.pexels.com/photos/14610789/pexels-photo-14610789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "about": "Just a small town girl living in a lonely world. Born and raised in South Detroit. On a midnight train headed to coffee town. "
+      "about": "Just a small town girl living in a lonely world. Born and raised in South Detroit. On a midnight train headed to coffee town.",
+      "coffeePreferenceId": 3,
+      "atmospherePreferenceId": 3
     },
     {
       "id": 4,
@@ -34,7 +40,9 @@
       "password": "bill",
       "name": "William Worthright",
       "picture": "https://images.pexels.com/photos/7397453/pexels-photo-7397453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "about": "I am a very successful business owner who only accepts my iced mochas from the most classy establishments. My only requirement is that they must have a drive thru lane."
+      "about": "I am a very successful business owner who only accepts my iced mochas from the most classy establishments. My only requirement is that they must have a drive thru lane.",
+      "coffeePreferenceId": 5,
+      "atmospherePreferenceId": 7
     },
     {
       "id": 5,
@@ -43,7 +51,9 @@
       "password": "jack",
       "name": "Jack O'Daniel",
       "picture": "https://images.pexels.com/photos/7907687/pexels-photo-7907687.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "about": "Big fan of strong espresso-based drinks. I love a hipster vibes and obscure menus."
+      "about": "Big fan of strong espresso-based drinks. I love a hipster vibes and obscure menus.",
+      "coffeePreferenceId": 7,
+      "atmospherePreferenceId": 3
     },
     {
       "id": 6,
@@ -52,7 +62,9 @@
       "password": "sam",
       "name": "Samuel Dursley",
       "picture": "https://images.pexels.com/photos/18660551/pexels-photo-18660551/free-photo-of-portrait-of-an-african-man-in-black-and-white.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "about": "I am open to any coffee shop experiences, I have never really explored coffee shops besides places like Starbucks, but I'm looking forward to expanding my taste!"
+      "about": "I am open to any coffee shop experiences, I have never really explored coffee shops besides places like Starbucks, but I'm looking forward to expanding my taste! Added bonus if the menus include some international brews or drinks I have never heard of, I would definitely try them!",
+      "coffeePreferenceId": 4,
+      "atmospherePreferenceId": 6
     },
     {
       "id": 7,
@@ -61,7 +73,9 @@
       "password": "michaela",
       "name": "Michaela Scott",
       "picture": "https://images.pexels.com/photos/5805992/pexels-photo-5805992.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "about": "Regional manager at Flunder Difflin Paper Company, so I spend a lot of time hanging around the coffee pot in the break room. Looking for places where I can find simliar friendly interactions as my local workplace coffee pot."
+      "about": "Regional manager at Flunder Difflin Paper Company, so I spend a lot of time hanging around the coffee pot in the break room. Looking for places where I can find simliar friendly interactions as my local workplace coffee pot.",
+      "coffeePreferenceId": 6,
+      "atmospherePreferenceId": 1
     },
     {
       "id": 8,
@@ -70,7 +84,9 @@
       "password": "mike",
       "name": "Mike Scott",
       "picture": "https://images.pexels.com/photos/9968247/pexels-photo-9968247.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "about": "I recently was released from prison, and the thing I missed most was good quality coffee. Can't wait to start exploring local coffee shops. I would love to find some places which have outdoor seating since I have been locked up so long."
+      "about": "I recently was released from prison, and the thing I missed most was good quality coffee. Can't wait to start exploring local coffee shops. I would love to find some places which have outdoor seating since I have been locked up so long.",,
+      "coffeePreferenceId": 3,
+      "atmospherePreferenceId": 5
     },
     {
       "id": 9,
@@ -79,7 +95,9 @@
       "password": "vickie",
       "name": "Vickie Mettenberger",
       "picture": "https://images.pexels.com/photos/1820559/pexels-photo-1820559.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "about": "My name is Vickie, I love to start every day with a delicious mocha frappaccino with extra shots of caramel and vanilla. I'm looking for some modern downtown aestethics where I can plug in my laptop and get some work done for my new social media influencing career."
+      "about": "My name is Vickie, I love to start every day with a delicious mocha frappaccino with extra shots of caramel and vanilla. I'm looking for some modern downtown aestethics where I can plug in my laptop and get some work done for my new social media influencing career.",
+      "coffeePreferenceId": 2,
+      "atmospherePreferenceId": 5
     },
     {
       "id": 10,
@@ -88,7 +106,9 @@
       "password": "alexa",
       "name": "Alexa Potter",
       "picture": "https://images.pexels.com/photos/789303/pexels-photo-789303.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "about": "I've never actually tried coffee before, but this is the coolest app I've ever seen, so I couldn't miss out. I plan on having my first cup of coffee using this app. Thank you so much for the opportunity to start this new hobby of coffee drinking. I think I'll start with a double shot in the dark with extra sugar, I've heard that's a great starter drink."
+      "about": "I've never actually tried coffee before, but this is the coolest app I've ever seen, so I couldn't miss out. I plan on having my first cup of coffee using this app. Thank you so much for the opportunity to start this new hobby of coffee drinking. I think I'll start with a double shot in the dark with extra sugar, I've heard that's a great starter drink.",
+      "coffeePreferenceId": 1,
+      "atmospherePreferenceId": 4
     },
     {
       "email": "blake@blake.com",
@@ -97,6 +117,8 @@
       "picture": "https://images.pexels.com/photos/18844928/pexels-photo-18844928/free-photo-of-light-black-and-white-fashion-man.jpeg?auto=compress&cs=tinysrgb&w=600",
       "about": "I am a graduate student at Belmont University, but am originally from Pennsylvania. I am looking to make some new social connections in the Nashville area. I love doing homework and hanging out at coffee shops, so I would love to meet some people with similar interests as me. I look forward to discovering this new city and new friends!",
       "admin": false,
+      "coffeePreferenceId": 5,
+      "atmospherePreferenceId": 1,
       "id": 11
     },
     {
@@ -106,6 +128,8 @@
       "picture": "https://images.pexels.com/photos/17136147/pexels-photo-17136147/free-photo-of-indian-traditional-beard-man.jpeg?auto=compress&cs=tinysrgb&w=800",
       "about": "My name is Ishaan, I am from New York City, but recently moved to Nashville. I am Founder and CEO of a tech startup, so I love getting out to coffee shops in the area to work on my laptop. Coming from NYC coffee shops, I am always looking for the best espresso pulls, no frills coffee only. ",
       "admin": false,
+      "coffeePreferenceId": 1,
+      "atmospherePreferenceId": 2,
       "id": 12
     },
     {
@@ -115,6 +139,8 @@
       "picture": "https://images.pexels.com/photos/1520760/pexels-photo-1520760.jpeg?auto=compress&cs=tinysrgb&w=800",
       "about": "Hi! I am Lizzzy, and I just want to explore and have fun being social in different coffee shops! I love to travel and explore with my friends.",
       "admin": false,
+      "coffeePreferenceId": 4,
+      "atmospherePreferenceId": 1,
       "id": 13
     },
     {
@@ -124,6 +150,8 @@
       "picture": "https://images.pexels.com/photos/3483800/pexels-photo-3483800.jpeg?auto=compress&cs=tinysrgb&w=800",
       "about": "I am interested in finding the best quality coffee experience. I only care about coffee taste in a quiet and cozy atmosphere. Look forward to learning more with this app.",
       "admin": false,
+      "coffeePreferenceId": 1,
+      "atmospherePreferenceId": 4,
       "id": 14
     },
     {
@@ -133,6 +161,8 @@
       "picture": "https://images.pexels.com/photos/10051767/pexels-photo-10051767.jpeg?auto=compress&cs=tinysrgb&w=800",
       "about": "I am Irina, I moved to the US three years ago, and love the coffee culture of my new city. I love espresso drinks, usually cortado! Please recommend any places with bold roasts. ",
       "admin": false,
+      "coffeePreferenceId": 7,
+      "atmospherePreferenceId": 5,
       "id": 15
     }
   ],
@@ -2783,6 +2813,80 @@
       "phone": "+16154571300",
       "display_phone": "(615) 457-1300",
       "distance": 4192.383851120594
+    }
+  ],
+  "coffeePreferences": [
+    {
+      "id": 1,
+      "name": "Traditional",
+      "description": "I enjoy traditional coffees, typically with no sugar or flavor additives. Drinks such as black coffee, cappuccino, cortado, flat white, etc."
+    },
+    {
+      "id": 2,
+      "name": "Sweet",
+      "description": "I enjoy flavored coffees or seasonal flavored brews. Drinks such as caramel macchiato, pumpkin spice latte, hazelnut coffee, smores latte, frappuccino, etc."
+    },
+    {
+      "id": 3,
+      "name": "Exploratory",
+      "description": "I enjoy trying coffee which is brewed in various ways. I want to explore trraditional and non-traditional extraction methods such as pour over, siphon pot, french press, Aeropress, Moka pot, etc."
+    },
+    {
+      "id": 4,
+      "name": "International",
+      "description": "I enjoy, or want to try, coffees from diverse regions of the world. Drinks I might enjoy are Turkish Coffee, Cafe Cubano, Vietnamese Coffee, etc."
+    },
+    {
+      "id": 5,
+      "name": "Cold",
+      "description": "I enjoy cold coffee-based drinks year-round, and prefere for my frequent shops to have plenty of iced options. Drinks I enjoy are cold brew, iced latte, iced americano, etc."
+    },
+    {
+      "id": 6,
+      "name": "Health-Conscious",
+      "description": "I have a need for coffee shops with plenty of health-conscious options, either out of necessity or preference. Health-conscious options are look for are dairy-free, gluten free, caffeine free, etc."
+    },
+    {
+      "id": 7,
+      "name": "Powerful",
+      "description": "I always look for coffee that packs a punch! I have no interest in creams, sugars, or any flavor other than dark, strong, coffee. Drink I usually go for are a shot in the dark, dark roast, americano, sidecar, etc."
+    }
+  ],
+  "atmospherePreference": [
+    {
+      "id": 1,
+      "name": "Lively",
+      "description": "I prefer lively coffee shops where hanging out with friends and being social is encouraged. I don't mind waiting in line or socializing with new people."
+    },
+    {
+      "id": 2,
+      "name": "Cozy",
+      "description": "I prefer cozy coffee shops which are warm and inviting, with comfortable seating, soft lighting, and a sense of intimacy."
+    },
+    {
+      "id": 3,
+      "name": "Hipster",
+      "description": "I preferr hipster coffee shops which are trendy and fashionable with unique decor, artisnal coffee, added bonus if there are plenty of places for insta stories."
+    },
+    {
+      "id":4,
+      "name": "Quaint",
+      "description": "I prefer quaint coffee shops whichh are small and charming, maybe with a touch of old-world charm."
+    },
+    {
+      "id": 5,
+      "name": "Low-key",
+      "description": "I prefer a low-key coffee shop where I can get work done around others without being interrupted by large crowds or too much noise. Or just enjoy some perosnal time."
+    },
+    {
+      "id": 6,
+      "name": "Cultural",
+      "description": "I prefer cultural coffee shops which represent a diverse community or culture. I love to explore foods, drinks, and vibes from different people from around the world. "
+    },
+    {
+      "id": 7,
+      "name": "Corporate",
+      "description": "I prefer the tried and true coffee shops owned by national corporations. I love the convenience, especially when there is a drive thru."
     }
   ]
 }
