@@ -164,6 +164,17 @@
       "coffeePreferenceId": 7,
       "atmospherePreferenceId": 5,
       "id": 15
+    },
+    {
+      "email": "edwin@edwin.com",
+      "password": "edwin",
+      "name": "Edwin Jones",
+      "picture": "https://images.pexels.com/photos/1546912/pexels-photo-1546912.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "about": "I want to explore coffee shops of all variety. I love discovering new coffee beans, blends, or brewing methods. I frequently bring my kiddos along with me, so somewhere that has some non-caffeinated drinks is a plus.",
+      "admin": false,
+      "coffeePreferenceId": "3",
+      "atmospherePreferenceId": "5",
+      "id": 16
     }
   ],
   "posts": [
@@ -220,12 +231,6 @@
       "businessId": "bZcW_CPll-WaAgciSLPyrA",
       "userId": 2,
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet tellus cras adipiscing. Tempus urna et pharetra pharetra massa massa ultricies mi. Id diam vel quam elementum pulvinar."
-    },
-    {
-      "id": 11,
-      "businessId": "6FX09pOrazvGT9s6_nQ7CQ",
-      "userId": 3,
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas diam in arcu cursus euismod quis viverra. Vitae elementum curabitur vitae nunc sed. Vestibulum lorem sed risus ultricies tristique nulla aliquet."
     },
     {
       "id": 12,
@@ -2843,7 +2848,7 @@
     },
     {
       "id": 6,
-      "name": "Health-Conscious",
+      "name": "Dietary-Restrictions",
       "description": "I have a need for coffee shops with plenty of health-conscious options, either out of necessity or preference. Health-conscious options are look for are dairy-free, gluten free, caffeine free, etc."
     },
     {
@@ -2852,7 +2857,7 @@
       "description": "I always look for coffee that packs a punch! I have no interest in creams, sugars, or any flavor other than dark, strong, coffee. Drink I usually go for are a shot in the dark, dark roast, americano, sidecar, etc."
     }
   ],
-  "atmospherePreference": [
+  "atmospherePreferences": [
     {
       "id": 1,
       "name": "Lively",
@@ -2869,18 +2874,18 @@
       "description": "I preferr hipster coffee shops which are trendy and fashionable with unique decor, artisnal coffee, added bonus if there are plenty of places for insta stories."
     },
     {
-      "id":4,
+      "id": 4,
       "name": "Quaint",
       "description": "I prefer quaint coffee shops whichh are small and charming, maybe with a touch of old-world charm."
     },
     {
       "id": 5,
-      "name": "Low-key",
+      "name": "Low-Key",
       "description": "I prefer a low-key coffee shop where I can get work done around others without being interrupted by large crowds or too much noise. Or just enjoy some perosnal time."
     },
     {
       "id": 6,
-      "name": "Cultural",
+      "name": "Multi-Cultural",
       "description": "I prefer cultural coffee shops which represent a diverse community or culture. I love to explore foods, drinks, and vibes from different people from around the world. "
     },
     {
