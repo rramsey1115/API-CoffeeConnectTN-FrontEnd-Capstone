@@ -9,7 +9,7 @@
       "picture": "https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "about": "Founder, Owner, and Operator of Cafe Connect, as well as several fortune 500 companies.",
       "coffeePreferenceId": 1,
-      "atmospherePreferenceId": 2
+      "atmospherePreferenceId": 5
     },
     {
       "id": 2,
@@ -84,7 +84,7 @@
       "password": "mike",
       "name": "Mike Scott",
       "picture": "https://images.pexels.com/photos/9968247/pexels-photo-9968247.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "about": "I recently was released from prison, and the thing I missed most was good quality coffee. Can't wait to start exploring local coffee shops. I would love to find some places which have outdoor seating since I have been locked up so long.",
+      "about": "I recently was released from prison, and the thing I missed most was good quality coffee. Can't wait to start exploring local coffee shops. I would love to find some places which have outdoor seating since I have been locked up so long. EDITED!",
       "coffeePreferenceId": 3,
       "atmospherePreferenceId": 5
     },
@@ -172,8 +172,8 @@
       "picture": "https://images.pexels.com/photos/1546912/pexels-photo-1546912.jpeg?auto=compress&cs=tinysrgb&w=800",
       "about": "I want to explore coffee shops of all variety. I love discovering new coffee beans, blends, or brewing methods. I frequently bring my kiddos along with me, so somewhere that has some non-caffeinated drinks is a plus.",
       "admin": false,
-      "coffeePreferenceId": "3",
-      "atmospherePreferenceId": "5",
+      "coffeePreferenceId": 3,
+      "atmospherePreferenceId": 5,
       "id": 16
     }
   ],
