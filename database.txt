@@ -4740,46 +4740,6 @@
       "distance": 457.5477622845436
     },
     {
-      "id": "vQCGCRJXBpFB-ApGF2X4GA",
-      "alias": "starbucks-cookeville-2",
-      "name": "Starbucks",
-      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UUOIAYIMLBfvyuy9pJ5MzQ/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/starbucks-cookeville-2?adjust_creative=xHUh4H8gU4oEypJVLjfS3A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=xHUh4H8gU4oEypJVLjfS3A",
-      "review_count": 57,
-      "categories": [
-        {
-          "alias": "coffee",
-          "title": "Coffee & Tea"
-        }
-      ],
-      "rating": 3,
-      "coordinates": {
-        "latitude": 36.13861942,
-        "longitude": -85.5057435
-      },
-      "transactions": [
-        "delivery"
-      ],
-      "price": "$$",
-      "location": {
-        "address1": "1105 Interstate Dr",
-        "address2": null,
-        "address3": null,
-        "city": "Cookeville",
-        "zip_code": "38501",
-        "country": "US",
-        "state": "TN",
-        "display_address": [
-          "1105 Interstate Dr",
-          "Cookeville, TN 38501"
-        ]
-      },
-      "phone": "+19315256503",
-      "display_phone": "(931) 525-6503",
-      "distance": 2578.2185483068
-    },
-    {
       "id": "4gZnYLShzTipWxEX2tnOew",
       "alias": "sweet-boba-cafe-cookeville",
       "name": "Sweet Boba Cafe",
