@@ -455,10 +455,10 @@
       "id": 54
     },
     {
-      "userId": 2,
+      "id": 55,
       "businessId": "GQYIfpfWW0K5-qKdg-m6TQ",
-      "text": "Not so much a \"coffee\" place, but they do have good coffee if you stick with the classics. GREAT breakfast though. ",
-      "id": 55
+      "userId": 2,
+      "text": "Not so much a coffee place, but they do have good coffee if you stick with the classics. GREAT breakfast though. "
     },
     {
       "userId": 2,
@@ -6234,6 +6234,48 @@
       "id": 7,
       "name": "Corporate",
       "description": "I prefer the tried and true coffee shops owned by national corporations. I love the convenience, especially when there is a drive thru."
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "name": "Brunch at Fido - Nashville",
+      "date": "11/16/2023",
+      "time": "1:00pm",
+      "businessId": "ReX09lhufLTAx19krkltDA",
+      "userId": [2, 9, 6, 11]
+    },
+    {
+      "id": 2,
+      "name": "Ugly Sweaters and Yummy Coffee",
+      "date": "12/05/2023",
+      "time": "10:00am",
+      "businessId": "lTRB2wSnF_CqSJpfxBII7g",
+      "userId": [4, 3, 5, 9]
+    },
+    {
+      "id": 3,
+      "name": "CCTN Knoxville Hang",
+      "date": "11/20/2023",
+      "time": "11:00am",
+      "businessId": "ckOGDVdN8yjEL1XPL6b0Fg",
+      "userId": [14, 15, 16]
+    },
+    {
+      "id": 4,
+      "name": "Rembrant's Meet Up - Chatt",
+      "date": "11/29/2023",
+      "time": "3:00pm",
+      "businessId": "hqjJ-rgC20QZK-wzp2mu6A",
+      "userId": [13, 12, 8, 10]
+    },
+    {
+      "id": 5,
+      "name": "Coffee & Chill - Nashville",
+      "date": "12/05/2023",
+      "time": "11:00am",
+      "businessId": "_vZSIIqBsw_IUmxqNVOALA",
+      "userId": [2, 9, 6, 11]
     }
   ]
 }
