@@ -5743,7 +5743,7 @@
     {
       "id": 1,
       "name": "Brunch at Fido - Nashville",
-      "date": "11/16/2023",
+      "date": "2024-05-16",
       "time": "1:00pm",
       "businessId": "ReX09lhufLTAx19krkltDA",
       "userId": [2, 9, 6, 11]
@@ -5751,7 +5751,7 @@
     {
       "id": 2,
       "name": "Ugly Sweaters and Yummy Coffee",
-      "date": "12/05/2023",
+      "date": "2024-03-03",
       "time": "10:00am",
       "businessId": "lTRB2wSnF_CqSJpfxBII7g",
       "userId": [4, 3, 5, 9]
@@ -5759,7 +5759,7 @@
     {
       "id": 3,
       "name": "CCTN Knoxville Hang",
-      "date": "11/20/2023",
+      "date": "2023-11-29",
       "time": "11:00am",
       "businessId": "ckOGDVdN8yjEL1XPL6b0Fg",
       "userId": [14, 15, 16]
@@ -5767,7 +5767,7 @@
     {
       "id": 4,
       "name": "Rembrant's Meet Up - Chatt",
-      "date": "11/29/2023",
+      "date": "2023-12-18",
       "time": "3:00pm",
       "businessId": "hqjJ-rgC20QZK-wzp2mu6A",
       "userId": [13, 12, 8, 10]
@@ -5775,10 +5775,66 @@
     {
       "id": 5,
       "name": "Coffee & Chill - Nashville",
-      "date": "12/05/2023",
+      "date": "2024-02-16",
       "time": "11:00am",
       "businessId": "_vZSIIqBsw_IUmxqNVOALA",
       "userId": [2, 9, 6, 11]
+    },
+    {
+      "id": 6,
+      "name": "Fun Coffee Time",
+      "date": "2023-11-01",
+      "time": "11:00am",
+      "businessId": "E4t5iqYooFycQsBtAfJKQQ",
+      "userId": [4, 5, 11, 13, 15]
+    },
+    {
+      "id": 7,
+      "name": "Cold Brew Tasting",
+      "date": "2023-08-16",
+      "time": "09:00am",
+      "businessId": "85AQYvKeJfYIDwbl4Kpxsw",
+      "userId": [2, 6, 7, 8, 9]
+    },
+    {
+      "id": 8,
+      "name": "Thanksgiving Flavored Coffee Tasting",
+      "date": "2023-11-05",
+      "time": "10:00am",
+      "businessId": "a8I21cIYjBKLZz3TjYcIXg",
+      "userId": [10, 12, 11, 14]
+    },
+    {
+      "id": 9,
+      "name": "Cookeville Coffee Consumption Consortium",
+      "date": "2022-04-02",
+      "time": "3:00pm",
+      "businessId": "P3iRJEhh4ceOc0-W8YyjAQ",
+      "userId": [16, 14, 12, 10]
+    },
+    {
+      "id": 10,
+      "name": "Chill Vibes Coffee Meet Up",
+      "date": "2022-06-03",
+      "time": "1:00pm",
+      "businessId": "E9AvP9cxfobpFgrz03bE6g",
+      "userId": [4, 6, 8, 3, 5]
+    },
+    {
+      "id": 11,
+      "name": "Annual CCTN Convention",
+      "date": "2023-01-02",
+      "time": "1:00pm",
+      "businessId": "wUZXm4KN2wIqlfkvXVZXUw",
+      "userId": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    },
+    {
+      "id": 12,
+      "name": "Memphis CCTN Member MeetUp",
+      "date": "2023-11-06",
+      "time": "8:00am",
+      "businessId": "Jt-EoCoNtMJ7xqOhAZwmiA",
+      "userId": [4, 6, 8, 3, 5]
     }
   ]
 }
