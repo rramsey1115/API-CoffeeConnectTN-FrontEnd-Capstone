@@ -5745,7 +5745,7 @@
       "name": "Brunch at Fido - Nashville",
       "date": "2024-05-16",
       "time": "1:00pm",
-      "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha. Espresso, breve in, cultivar spoon and cultivar con panna so flavour.",
+      "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha.",
       "businessId": "ReX09lhufLTAx19krkltDA",
       "attendeesId": [2, 9, 6, 11]
     },
@@ -5754,7 +5754,7 @@
       "name": "Ugly Sweaters and Yummy Coffee",
       "date": "2024-03-03",
       "time": "10:00am",
-      "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha. Espresso, breve in, cultivar spoon and cultivar con panna so flavour.",
+      "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha.",
       "businessId": "lTRB2wSnF_CqSJpfxBII7g",
       "attendeesId": [4, 3, 5, 9]
     },
@@ -5763,16 +5763,55 @@
       "name": "CCTN Knoxville Hang",
       "date": "2023-11-29",
       "time": "11:00am",
-      "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha. Espresso, breve in, cultivar spoon and cultivar con panna so flavour.",
+      "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha.",
       "businessId": "ckOGDVdN8yjEL1XPL6b0Fg",
-      "attendeesId": [14, 15, 16]
+      "attendeesId": [14, 15, 16, 1],
+      "business": {
+        "id": "ckOGDVdN8yjEL1XPL6b0Fg",
+        "alias": "wild-love-bakehouse-knoxville",
+        "name": "Wild Love Bakehouse",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/y6TYIAU-x3zyL0V6JD38Gg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/wild-love-bakehouse-knoxville?adjust_creative=xHUh4H8gU4oEypJVLjfS3A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=xHUh4H8gU4oEypJVLjfS3A",
+        "review_count": 202,
+        "categories": [
+          {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+          },
+          {
+            "alias": "bakeries",
+            "title": "Bakeries"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 35.9854210431581,
+          "longitude": -83.9344514632988
+        },
+        "transactions": ["delivery"],
+        "price": "$$",
+        "location": {
+          "address1": "1625 N Central St",
+          "address2": "",
+          "address3": "",
+          "city": "Knoxville",
+          "zip_code": "37917",
+          "country": "US",
+          "state": "TN",
+          "display_address": ["1625 N Central St", "Knoxville, TN 37917"]
+        },
+        "phone": "+18652008078",
+        "display_phone": "(865) 200-8078",
+        "distance": 7675.600670008905
+      }
     },
     {
       "id": 4,
       "name": "Rembrant's Meet Up - Chatt",
       "date": "2023-12-18",
       "time": "3:00pm",
-      "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha. Espresso, breve in, cultivar spoon and cultivar con panna so flavour.",
+      "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha.",
       "businessId": "hqjJ-rgC20QZK-wzp2mu6A",
       "attendeesId": [13, 12, 8, 10]
     },
@@ -5781,7 +5820,7 @@
       "name": "Coffee & Chill - Nashville",
       "date": "2024-02-16",
       "time": "11:00am",
-      "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha. Espresso, breve in, cultivar spoon and cultivar con panna so flavour.",
+      "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha.",
       "businessId": "_vZSIIqBsw_IUmxqNVOALA",
       "attendeesId": [2, 9, 6, 11]
     },
@@ -5790,7 +5829,7 @@
       "name": "Fun Coffee Time",
       "date": "2023-11-01",
       "time": "11:00am",
-      "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha. Espresso, breve in, cultivar spoon and cultivar con panna so flavour.",
+      "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha.",
       "businessId": "E4t5iqYooFycQsBtAfJKQQ",
       "attendeesId": [4, 5, 11, 13, 15]
     },
@@ -5799,7 +5838,7 @@
       "name": "Cold Brew Tasting",
       "date": "2023-08-16",
       "time": "09:00am",
-      "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha. Espresso, breve in, cultivar spoon and cultivar con panna so flavour.",
+      "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha.",
       "businessId": "85AQYvKeJfYIDwbl4Kpxsw",
       "attendeesId": [2, 6, 7, 8, 9]
     },
@@ -5808,7 +5847,7 @@
       "name": "Thanksgiving Flavored Coffee Tasting",
       "date": "2023-11-05",
       "time": "10:00am",
-      "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha. Espresso, breve in, cultivar spoon and cultivar con panna so flavour.",
+      "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha.",
       "businessId": "a8I21cIYjBKLZz3TjYcIXg",
       "attendeesId": [10, 12, 11, 14]
     },
@@ -5817,7 +5856,7 @@
       "name": "Cookeville Coffee Consumption Consortium",
       "date": "2022-04-02",
       "time": "3:00pm",
-      "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha. Espresso, breve in, cultivar spoon and cultivar con panna so flavour.",
+      "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha.",
       "businessId": "P3iRJEhh4ceOc0-W8YyjAQ",
       "attendeesId": [16, 14, 12, 10]
     },
@@ -5826,7 +5865,7 @@
       "name": "Chill Vibes Coffee Meet Up",
       "date": "2022-06-03",
       "time": "1:00pm",
-      "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha. Espresso, breve in, cultivar spoon and cultivar con panna so flavour.",
+      "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha.",
       "businessId": "E9AvP9cxfobpFgrz03bE6g",
       "attendeesId": [4, 6, 8, 3, 5]
     },
@@ -5835,7 +5874,7 @@
       "name": "Annual CCTN Convention",
       "date": "2023-01-02",
       "time": "1:00pm",
-      "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha. Espresso, breve in, cultivar spoon and cultivar con panna so flavour.",
+      "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha.",
       "businessId": "wUZXm4KN2wIqlfkvXVZXUw",
       "attendeesId": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     },
@@ -5844,7 +5883,7 @@
       "name": "Memphis CCTN Member MeetUp",
       "date": "2023-11-06",
       "time": "8:00am",
-      "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha. Espresso, breve in, cultivar spoon and cultivar con panna so flavour.",
+      "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha.",
       "businessId": "Jt-EoCoNtMJ7xqOhAZwmiA",
       "attendeesId": [4, 6, 8, 3, 5]
     }
