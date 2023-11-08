@@ -727,7 +727,10 @@
         "latitude": 36.164067,
         "longitude": -86.781044
       },
-      "transactions": ["delivery", "pickup"],
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
       "price": "$$",
       "location": {
         "address1": "235 Rep John Lewis Way",
@@ -737,7 +740,10 @@
         "zip_code": "37219",
         "country": "US",
         "state": "TN",
-        "display_address": ["235 Rep John Lewis Way", "Nashville, TN 37219"]
+        "display_address": [
+          "235 Rep John Lewis Way",
+          "Nashville, TN 37219"
+        ]
       },
       "phone": "+16156004756",
       "display_phone": "(615) 600-4756",
@@ -770,7 +776,9 @@
         "latitude": 36.1408157348633,
         "longitude": -86.7721481323242
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "price": "$$",
       "location": {
         "address1": "516 Hagan St",
@@ -780,7 +788,10 @@
         "zip_code": "37203",
         "country": "US",
         "state": "TN",
-        "display_address": ["516 Hagan St", "Nashville, TN 37203"]
+        "display_address": [
+          "516 Hagan St",
+          "Nashville, TN 37203"
+        ]
       },
       "phone": "+16157128150",
       "display_phone": "(615) 712-8150",
@@ -823,7 +834,11 @@
         "zip_code": "37203",
         "country": "US",
         "state": "TN",
-        "display_address": ["434 Houston St", "Ste 120", "Nashville, TN 37203"]
+        "display_address": [
+          "434 Houston St",
+          "Ste 120",
+          "Nashville, TN 37203"
+        ]
       },
       "phone": "+16292036991",
       "display_phone": "(629) 203-6991",
@@ -856,7 +871,9 @@
         "latitude": 36.1626758807141,
         "longitude": -86.78099031369042
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "price": "$$",
       "location": {
         "address1": "555 Church St",
@@ -866,7 +883,10 @@
         "zip_code": "37219",
         "country": "US",
         "state": "TN",
-        "display_address": ["555 Church St", "Nashville, TN 37219"]
+        "display_address": [
+          "555 Church St",
+          "Nashville, TN 37219"
+        ]
       },
       "phone": "+16153754934",
       "display_phone": "(615) 375-4934",
@@ -899,7 +919,9 @@
         "latitude": 36.14921,
         "longitude": -86.86406
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "price": "$$",
       "location": {
         "address1": "5906 Charlotte Pike",
@@ -946,7 +968,10 @@
         "latitude": 36.1246245774321,
         "longitude": -86.7897936336667
       },
-      "transactions": ["delivery", "pickup"],
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
       "price": "$$",
       "location": {
         "address1": "2509 12th Ave S",
@@ -956,7 +981,10 @@
         "zip_code": "37204",
         "country": "US",
         "state": "TN",
-        "display_address": ["2509 12th Ave S", "Nashville, TN 37204"]
+        "display_address": [
+          "2509 12th Ave S",
+          "Nashville, TN 37204"
+        ]
       },
       "phone": "+16156004756",
       "display_phone": "(615) 600-4756",
@@ -989,7 +1017,10 @@
         "latitude": 36.13634127234916,
         "longitude": -86.80078935490126
       },
-      "transactions": ["delivery", "pickup"],
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
       "price": "$$",
       "location": {
         "address1": "1812 21st Ave S",
@@ -999,7 +1030,10 @@
         "zip_code": "37212",
         "country": "US",
         "state": "TN",
-        "display_address": ["1812 21st Ave S", "Nashville, TN 37212"]
+        "display_address": [
+          "1812 21st Ave S",
+          "Nashville, TN 37212"
+        ]
       },
       "phone": "+16157773436",
       "display_phone": "(615) 777-3436",
@@ -1028,7 +1062,10 @@
         "latitude": 36.140955929298,
         "longitude": -86.7395186797627
       },
-      "transactions": ["delivery", "pickup"],
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
       "price": "$",
       "location": {
         "address1": "619 Murfreesboro Pike",
@@ -1038,7 +1075,10 @@
         "zip_code": "37210",
         "country": "US",
         "state": "TN",
-        "display_address": ["619 Murfreesboro Pike", "Nashville, TN 37210"]
+        "display_address": [
+          "619 Murfreesboro Pike",
+          "Nashville, TN 37210"
+        ]
       },
       "phone": "+16153971977",
       "display_phone": "(615) 397-1977",
@@ -1063,7 +1103,10 @@
         "latitude": 36.15681,
         "longitude": -86.7698
       },
-      "transactions": ["delivery", "pickup"],
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
       "price": "$$",
       "location": {
         "address1": "15 Hermitage Ave",
@@ -1073,7 +1116,10 @@
         "zip_code": "37210",
         "country": "US",
         "state": "TN",
-        "display_address": ["15 Hermitage Ave", "Nashville, TN 37210"]
+        "display_address": [
+          "15 Hermitage Ave",
+          "Nashville, TN 37210"
+        ]
       },
       "phone": "+16152558311",
       "display_phone": "(615) 255-8311",
@@ -1106,7 +1152,10 @@
         "latitude": 36.15347,
         "longitude": -86.79584
       },
-      "transactions": ["delivery", "pickup"],
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
       "location": {
         "address1": "1720 West End Ave",
         "address2": "Ste 100",
@@ -1152,7 +1201,10 @@
         "latitude": 36.1529476,
         "longitude": -86.7907823
       },
-      "transactions": ["delivery", "pickup"],
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
       "price": "$$",
       "location": {
         "address1": "1528 Demonbreun St",
@@ -1162,7 +1214,10 @@
         "zip_code": "37203",
         "country": "US",
         "state": "TN",
-        "display_address": ["1528 Demonbreun St", "Nashville, TN 37203"]
+        "display_address": [
+          "1528 Demonbreun St",
+          "Nashville, TN 37203"
+        ]
       },
       "phone": "+16158912708",
       "display_phone": "(615) 891-2708",
@@ -1205,7 +1260,10 @@
         "zip_code": "37212",
         "country": "US",
         "state": "TN",
-        "display_address": ["2005 Belcourt Ave", "Nashville, TN 37212"]
+        "display_address": [
+          "2005 Belcourt Ave",
+          "Nashville, TN 37212"
+        ]
       },
       "phone": "+16157309139",
       "display_phone": "(615) 730-9139",
@@ -1238,7 +1296,10 @@
         "latitude": 36.135073,
         "longitude": -86.789329
       },
-      "transactions": ["delivery", "pickup"],
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
       "price": "$$",
       "location": {
         "address1": "1827 12th Ave S",
@@ -1248,7 +1309,10 @@
         "zip_code": "37203",
         "country": "US",
         "state": "TN",
-        "display_address": ["1827 12th Ave S", "Nashville, TN 37203"]
+        "display_address": [
+          "1827 12th Ave S",
+          "Nashville, TN 37203"
+        ]
       },
       "phone": "+16152692911",
       "display_phone": "(615) 269-2911",
@@ -1277,7 +1341,9 @@
         "latitude": 36.10748,
         "longitude": -86.75511
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "price": "$$",
       "location": {
         "address1": "2934 Sidco Dr",
@@ -1287,7 +1353,11 @@
         "zip_code": "37204",
         "country": "US",
         "state": "TN",
-        "display_address": ["2934 Sidco Dr", "Ste 130", "Nashville, TN 37204"]
+        "display_address": [
+          "2934 Sidco Dr",
+          "Ste 130",
+          "Nashville, TN 37204"
+        ]
       },
       "phone": "+16152415105",
       "display_phone": "(615) 241-5105",
@@ -1320,7 +1390,9 @@
         "latitude": 36.125983,
         "longitude": -86.77633
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "location": {
         "address1": "717 Craighead St",
         "address2": null,
@@ -1329,7 +1401,10 @@
         "zip_code": "37204",
         "country": "US",
         "state": "TN",
-        "display_address": ["717 Craighead St", "Berry Hill, TN 37204"]
+        "display_address": [
+          "717 Craighead St",
+          "Berry Hill, TN 37204"
+        ]
       },
       "phone": "+16155227134",
       "display_phone": "(615) 522-7134",
@@ -1362,7 +1437,9 @@
         "latitude": 36.1713600158691,
         "longitude": -86.7588958740234
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "price": "$$",
       "location": {
         "address1": "700 Fatherland St",
@@ -1372,7 +1449,10 @@
         "zip_code": "37206",
         "country": "US",
         "state": "TN",
-        "display_address": ["700 Fatherland St", "Nashville, TN 37206"]
+        "display_address": [
+          "700 Fatherland St",
+          "Nashville, TN 37206"
+        ]
       },
       "phone": "+16157707097",
       "display_phone": "(615) 770-7097",
@@ -1405,7 +1485,9 @@
         "latitude": 36.152103,
         "longitude": -86.851798
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "price": "$$",
       "location": {
         "address1": "5304 Charlotte Ave",
@@ -1415,7 +1497,10 @@
         "zip_code": "37209",
         "country": "US",
         "state": "TN",
-        "display_address": ["5304 Charlotte Ave", "Nashville, TN 37209"]
+        "display_address": [
+          "5304 Charlotte Ave",
+          "Nashville, TN 37209"
+        ]
       },
       "phone": "+16156103403",
       "display_phone": "(615) 610-3403",
@@ -1448,7 +1533,10 @@
         "latitude": 36.162519293765065,
         "longitude": -86.8488965317025
       },
-      "transactions": ["delivery", "pickup"],
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
       "price": "$$",
       "location": {
         "address1": "1400 51st Ave N",
@@ -1458,7 +1546,10 @@
         "zip_code": "37209",
         "country": "US",
         "state": "TN",
-        "display_address": ["1400 51st Ave N", "Nashville, TN 37209"]
+        "display_address": [
+          "1400 51st Ave N",
+          "Nashville, TN 37209"
+        ]
       },
       "phone": "+16156004756",
       "display_phone": "(615) 600-4756",
@@ -1491,7 +1582,10 @@
         "latitude": 36.12711,
         "longitude": -86.7864
       },
-      "transactions": ["delivery", "pickup"],
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
       "price": "$$",
       "location": {
         "address1": "2229 10th Ave S",
@@ -1501,7 +1595,10 @@
         "zip_code": "37204",
         "country": "US",
         "state": "TN",
-        "display_address": ["2229 10th Ave S", "Nashville, TN 37204"]
+        "display_address": [
+          "2229 10th Ave S",
+          "Nashville, TN 37204"
+        ]
       },
       "phone": "+16156788049",
       "display_phone": "(615) 678-8049",
@@ -1534,7 +1631,10 @@
         "latitude": 36.1578561,
         "longitude": -86.7814243
       },
-      "transactions": ["delivery", "pickup"],
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
       "price": "$$",
       "location": {
         "address1": "114 8th Ave S",
@@ -1544,7 +1644,10 @@
         "zip_code": "37203",
         "country": "US",
         "state": "TN",
-        "display_address": ["114 8th Ave S", "Nashville, TN 37203"]
+        "display_address": [
+          "114 8th Ave S",
+          "Nashville, TN 37203"
+        ]
       },
       "phone": "+16156498022",
       "display_phone": "(615) 649-8022",
@@ -1577,7 +1680,10 @@
         "latitude": 35.9324837,
         "longitude": -84.0029277
       },
-      "transactions": ["pickup", "delivery"],
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
       "price": "$",
       "location": {
         "address1": "6104 Kingston Pike",
@@ -1587,7 +1693,10 @@
         "zip_code": "37919",
         "country": "US",
         "state": "TN",
-        "display_address": ["6104 Kingston Pike", "Knoxville, TN 37919"]
+        "display_address": [
+          "6104 Kingston Pike",
+          "Knoxville, TN 37919"
+        ]
       },
       "phone": "+18652361393",
       "display_phone": "(865) 236-1393",
@@ -1630,7 +1739,10 @@
         "zip_code": "37919",
         "country": "US",
         "state": "TN",
-        "display_address": ["7428 S Northshore Dr", "Knoxville, TN 37919"]
+        "display_address": [
+          "7428 S Northshore Dr",
+          "Knoxville, TN 37919"
+        ]
       },
       "phone": "+18655406199",
       "display_phone": "(865) 540-6199",
@@ -1663,7 +1775,9 @@
         "latitude": 35.9395,
         "longitude": -83.988742
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "price": "$$",
       "location": {
         "address1": "5107 Kingston Pike",
@@ -1673,7 +1787,10 @@
         "zip_code": "37919",
         "country": "US",
         "state": "TN",
-        "display_address": ["5107 Kingston Pike", "Knoxville, TN 37919"]
+        "display_address": [
+          "5107 Kingston Pike",
+          "Knoxville, TN 37919"
+        ]
       },
       "phone": "+18655848739",
       "display_phone": "(865) 584-8739",
@@ -1706,7 +1823,9 @@
         "latitude": 35.9319084,
         "longitude": -84.0105133
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "price": "$",
       "location": {
         "address1": "6535 Kingston Pike",
@@ -1716,7 +1835,10 @@
         "zip_code": "37919",
         "country": "US",
         "state": "TN",
-        "display_address": ["6535 Kingston Pike", "Knoxville, TN 37919"]
+        "display_address": [
+          "6535 Kingston Pike",
+          "Knoxville, TN 37919"
+        ]
       },
       "phone": "+18659990988",
       "display_phone": "(865) 999-0988",
@@ -1749,7 +1871,10 @@
         "latitude": 35.90695082278749,
         "longitude": -83.95473539801584
       },
-      "transactions": ["pickup", "delivery"],
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
       "location": {
         "address1": "3105 Alcoa Hwy",
         "address2": "Unit K",
@@ -1758,7 +1883,11 @@
         "zip_code": "37920",
         "country": "US",
         "state": "TN",
-        "display_address": ["3105 Alcoa Hwy", "Unit K", "Knoxville, TN 37920"]
+        "display_address": [
+          "3105 Alcoa Hwy",
+          "Unit K",
+          "Knoxville, TN 37920"
+        ]
       },
       "phone": "+18653455828",
       "display_phone": "(865) 345-5828",
@@ -1787,7 +1916,9 @@
         "latitude": 35.9854210431581,
         "longitude": -83.9344514632988
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "price": "$$",
       "location": {
         "address1": "1625 N Central St",
@@ -1797,7 +1928,10 @@
         "zip_code": "37917",
         "country": "US",
         "state": "TN",
-        "display_address": ["1625 N Central St", "Knoxville, TN 37917"]
+        "display_address": [
+          "1625 N Central St",
+          "Knoxville, TN 37917"
+        ]
       },
       "phone": "+18652008078",
       "display_phone": "(865) 200-8078",
@@ -1840,7 +1974,10 @@
         "zip_code": "37902",
         "country": "US",
         "state": "TN",
-        "display_address": ["419 S Gay St", "Knoxville, TN 37902"]
+        "display_address": [
+          "419 S Gay St",
+          "Knoxville, TN 37902"
+        ]
       },
       "phone": "+18658886090",
       "display_phone": "(865) 888-6090",
@@ -1875,7 +2012,10 @@
         "zip_code": "37902",
         "country": "US",
         "state": "TN",
-        "display_address": ["109 S Central St", "Knoxville, TN 37902"]
+        "display_address": [
+          "109 S Central St",
+          "Knoxville, TN 37902"
+        ]
       },
       "phone": "+18655239817",
       "display_phone": "(865) 523-9817",
@@ -1900,7 +2040,10 @@
         "latitude": 35.962106,
         "longitude": -83.917766
       },
-      "transactions": ["pickup", "delivery"],
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
       "price": "$$",
       "location": {
         "address1": "800 Market St",
@@ -1910,7 +2053,10 @@
         "zip_code": "37902",
         "country": "US",
         "state": "TN",
-        "display_address": ["800 Market St", "Knoxville, TN 37902"]
+        "display_address": [
+          "800 Market St",
+          "Knoxville, TN 37902"
+        ]
       },
       "phone": "",
       "display_phone": "",
@@ -1952,7 +2098,10 @@
         "zip_code": "37902",
         "country": "US",
         "state": "TN",
-        "display_address": ["513 Union Ave", "Knoxville, TN 37902"]
+        "display_address": [
+          "513 Union Ave",
+          "Knoxville, TN 37902"
+        ]
       },
       "phone": "",
       "display_phone": "",
@@ -1985,7 +2134,9 @@
         "latitude": 35.9639518,
         "longitude": -83.9207567
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "price": "$",
       "location": {
         "address1": "540 Union Ave",
@@ -1995,7 +2146,10 @@
         "zip_code": "37902",
         "country": "US",
         "state": "TN",
-        "display_address": ["540 Union Ave", "Knoxville, TN 37902"]
+        "display_address": [
+          "540 Union Ave",
+          "Knoxville, TN 37902"
+        ]
       },
       "phone": "+18655232860",
       "display_phone": "(865) 523-2860",
@@ -2037,7 +2191,10 @@
         "zip_code": "37849",
         "country": "US",
         "state": "TN",
-        "display_address": ["1317 E Emory Rd", "Knoxville, TN 37849"]
+        "display_address": [
+          "1317 E Emory Rd",
+          "Knoxville, TN 37849"
+        ]
       },
       "phone": "",
       "display_phone": "",
@@ -2070,7 +2227,9 @@
         "latitude": 35.983734,
         "longitude": -83.922131
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "price": "$$",
       "location": {
         "address1": "1138 N Broadway",
@@ -2080,7 +2239,10 @@
         "zip_code": "37917",
         "country": "US",
         "state": "TN",
-        "display_address": ["1138 N Broadway", "Knoxville, TN 37917"]
+        "display_address": [
+          "1138 N Broadway",
+          "Knoxville, TN 37917"
+        ]
       },
       "phone": "+18654487498",
       "display_phone": "(865) 448-7498",
@@ -2109,7 +2271,9 @@
         "latitude": 35.9650050848722,
         "longitude": -83.9186047017574
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "price": "$$",
       "location": {
         "address1": "327 Union Ave",
@@ -2119,7 +2283,10 @@
         "zip_code": "37902",
         "country": "US",
         "state": "TN",
-        "display_address": ["327 Union Ave", "Knoxville, TN 37902"]
+        "display_address": [
+          "327 Union Ave",
+          "Knoxville, TN 37902"
+        ]
       },
       "phone": "+18656889244",
       "display_phone": "(865) 688-9244",
@@ -2152,7 +2319,9 @@
         "latitude": 35.96586,
         "longitude": -83.91822
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "location": {
         "address1": "418 S Gay St",
         "address2": null,
@@ -2161,7 +2330,10 @@
         "zip_code": "37902",
         "country": "US",
         "state": "TN",
-        "display_address": ["418 S Gay St", "Knoxville, TN 37902"]
+        "display_address": [
+          "418 S Gay St",
+          "Knoxville, TN 37902"
+        ]
       },
       "phone": "+18658880997",
       "display_phone": "(865) 888-0997",
@@ -2203,7 +2375,10 @@
         "zip_code": "37919",
         "country": "US",
         "state": "TN",
-        "display_address": ["7822 Kingston Pike", "Knoxville, TN 37919"]
+        "display_address": [
+          "7822 Kingston Pike",
+          "Knoxville, TN 37919"
+        ]
       },
       "phone": "+18654487993",
       "display_phone": "(865) 448-7993",
@@ -2246,7 +2421,10 @@
         "zip_code": "37919",
         "country": "US",
         "state": "TN",
-        "display_address": ["514 Walker St", "Knoxville, TN 37919"]
+        "display_address": [
+          "514 Walker St",
+          "Knoxville, TN 37919"
+        ]
       },
       "phone": "+18655259412",
       "display_phone": "(865) 525-9412",
@@ -2279,7 +2457,10 @@
         "latitude": 35.97885624106809,
         "longitude": -84.11647562945052
       },
-      "transactions": ["pickup", "delivery"],
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
       "location": {
         "address1": "7815 Oak Ridge Hwy",
         "address2": "",
@@ -2288,7 +2469,10 @@
         "zip_code": "37931",
         "country": "US",
         "state": "TN",
-        "display_address": ["7815 Oak Ridge Hwy", "Knoxville, TN 37931"]
+        "display_address": [
+          "7815 Oak Ridge Hwy",
+          "Knoxville, TN 37931"
+        ]
       },
       "phone": "+18654443121",
       "display_phone": "(865) 444-3121",
@@ -2364,7 +2548,10 @@
         "zip_code": "37923",
         "country": "US",
         "state": "TN",
-        "display_address": ["9111 Executive Park Dr", "Knoxville, TN 37923"]
+        "display_address": [
+          "9111 Executive Park Dr",
+          "Knoxville, TN 37923"
+        ]
       },
       "phone": "+18658019425",
       "display_phone": "(865) 801-9425",
@@ -2397,7 +2584,9 @@
         "latitude": 35.0641,
         "longitude": -85.30913
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "price": "$$",
       "location": {
         "address1": "135 N Market St",
@@ -2407,7 +2596,10 @@
         "zip_code": "37405",
         "country": "US",
         "state": "TN",
-        "display_address": ["135 N Market St", "Chattanooga, TN 37405"]
+        "display_address": [
+          "135 N Market St",
+          "Chattanooga, TN 37405"
+        ]
       },
       "phone": "+14235213123",
       "display_phone": "(423) 521-3123",
@@ -2440,7 +2632,10 @@
         "latitude": 35.0370144442442,
         "longitude": -85.3068818897009
       },
-      "transactions": ["pickup", "delivery"],
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
       "price": "$$",
       "location": {
         "address1": "1400 Market St",
@@ -2450,7 +2645,10 @@
         "zip_code": "37402",
         "country": "US",
         "state": "TN",
-        "display_address": ["1400 Market St", "Chattanooga, TN 37402"]
+        "display_address": [
+          "1400 Market St",
+          "Chattanooga, TN 37402"
+        ]
       },
       "phone": "+14236806343",
       "display_phone": "(423) 680-6343",
@@ -2483,7 +2681,9 @@
         "latitude": 35.0444456212144,
         "longitude": -85.2969109999381
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "price": "$",
       "location": {
         "address1": "737 McCallie Ave",
@@ -2493,7 +2693,10 @@
         "zip_code": "37403",
         "country": "US",
         "state": "TN",
-        "display_address": ["737 McCallie Ave", "Chattanooga, TN 37403"]
+        "display_address": [
+          "737 McCallie Ave",
+          "Chattanooga, TN 37403"
+        ]
       },
       "phone": "+14234681777",
       "display_phone": "(423) 468-1777",
@@ -2526,7 +2729,9 @@
         "latitude": 35.0545688563422,
         "longitude": -85.3053505951871
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "price": "$",
       "location": {
         "address1": "204 High St",
@@ -2536,7 +2741,10 @@
         "zip_code": "37403",
         "country": "US",
         "state": "TN",
-        "display_address": ["204 High St", "Chattanooga, TN 37403"]
+        "display_address": [
+          "204 High St",
+          "Chattanooga, TN 37403"
+        ]
       },
       "phone": "+14233210235",
       "display_phone": "(423) 321-0235",
@@ -2569,7 +2777,9 @@
         "latitude": 35.0673145,
         "longitude": -85.3151071
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "price": "$$",
       "location": {
         "address1": "505 Cherokee Blvd",
@@ -2579,7 +2789,10 @@
         "zip_code": "37405",
         "country": "US",
         "state": "TN",
-        "display_address": ["505 Cherokee Blvd", "Chattanooga, TN 37405"]
+        "display_address": [
+          "505 Cherokee Blvd",
+          "Chattanooga, TN 37405"
+        ]
       },
       "phone": "+14237525224",
       "display_phone": "(423) 752-5224",
@@ -2612,7 +2825,10 @@
         "latitude": 35.04775,
         "longitude": -85.30909
       },
-      "transactions": ["pickup", "delivery"],
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
       "price": "$$",
       "location": {
         "address1": "728 Market St",
@@ -2622,7 +2838,10 @@
         "zip_code": "37402",
         "country": "US",
         "state": "TN",
-        "display_address": ["728 Market St", "Chattanooga, TN 37402"]
+        "display_address": [
+          "728 Market St",
+          "Chattanooga, TN 37402"
+        ]
       },
       "phone": "+14234984367",
       "display_phone": "(423) 498-4367",
@@ -2651,7 +2870,9 @@
         "latitude": 35.0354195,
         "longitude": -85.3045578
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "price": "$$",
       "location": {
         "address1": "215 E Main St",
@@ -2661,7 +2882,10 @@
         "zip_code": "37408",
         "country": "US",
         "state": "TN",
-        "display_address": ["215 E Main St", "Chattanooga, TN 37408"]
+        "display_address": [
+          "215 E Main St",
+          "Chattanooga, TN 37408"
+        ]
       },
       "phone": "+14237560303",
       "display_phone": "(423) 756-0303",
@@ -2694,7 +2918,9 @@
         "latitude": 35.0339293313874,
         "longitude": -85.3024043869557
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "price": "$",
       "location": {
         "address1": "400 E Main St",
@@ -2704,7 +2930,10 @@
         "zip_code": "37408",
         "country": "US",
         "state": "TN",
-        "display_address": ["400 E Main St", "Chattanooga, TN 37408"]
+        "display_address": [
+          "400 E Main St",
+          "Chattanooga, TN 37408"
+        ]
       },
       "phone": "+14235312222",
       "display_phone": "(423) 531-2222",
@@ -2738,7 +2967,10 @@
         "zip_code": "37404",
         "country": "US",
         "state": "TN",
-        "display_address": ["801 S Orchard Knob Ave", "Chattanooga, TN 37404"]
+        "display_address": [
+          "801 S Orchard Knob Ave",
+          "Chattanooga, TN 37404"
+        ]
       },
       "phone": "+14235412168",
       "display_phone": "(423) 541-2168",
@@ -2771,7 +3003,9 @@
         "latitude": 35.068864855768815,
         "longitude": -85.30932319737683
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "price": "$$",
       "location": {
         "address1": "607 N Market St",
@@ -2818,7 +3052,10 @@
         "latitude": 35.0621871948242,
         "longitude": -85.3077621459961
       },
-      "transactions": ["pickup", "delivery"],
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
       "price": "$$",
       "location": {
         "address1": "26 Frazier Ave",
@@ -2828,7 +3065,11 @@
         "zip_code": "37405",
         "country": "US",
         "state": "TN",
-        "display_address": ["26 Frazier Ave", "Ste B", "Chattanooga, TN 37405"]
+        "display_address": [
+          "26 Frazier Ave",
+          "Ste B",
+          "Chattanooga, TN 37405"
+        ]
       },
       "phone": "+14232675425",
       "display_phone": "(423) 267-5425",
@@ -2853,7 +3094,9 @@
         "latitude": 35.0473409157053,
         "longitude": -85.3107533333333
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "location": {
         "address1": "735 Broad St",
         "address2": "",
@@ -2862,7 +3105,10 @@
         "zip_code": "37402",
         "country": "US",
         "state": "TN",
-        "display_address": ["735 Broad St", "Chattanooga, TN 37402"]
+        "display_address": [
+          "735 Broad St",
+          "Chattanooga, TN 37402"
+        ]
       },
       "phone": "+14232062530",
       "display_phone": "(423) 206-2530",
@@ -2895,7 +3141,9 @@
         "latitude": 35.0364227294922,
         "longitude": -85.3089447021484
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "price": "$",
       "location": {
         "address1": "114 W Main St",
@@ -2905,7 +3153,10 @@
         "zip_code": "37408",
         "country": "US",
         "state": "TN",
-        "display_address": ["114 W Main St", "Chattanooga, TN 37408"]
+        "display_address": [
+          "114 W Main St",
+          "Chattanooga, TN 37408"
+        ]
       },
       "phone": "+14238254206",
       "display_phone": "(423) 825-4206",
@@ -2934,7 +3185,9 @@
         "latitude": 35.063055,
         "longitude": -85.31254
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "price": "$$",
       "location": {
         "address1": "205 Manufacturers Rd",
@@ -2981,7 +3234,9 @@
         "latitude": 35.01126,
         "longitude": -85.32652
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "price": "$$",
       "location": {
         "address1": "3742 Tennessee Ave",
@@ -3028,7 +3283,10 @@
         "latitude": 35.0334997,
         "longitude": -85.15474189999999
       },
-      "transactions": ["pickup", "delivery"],
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
       "price": "$",
       "location": {
         "address1": "2115 Gunbarrel Rd",
@@ -3085,7 +3343,10 @@
         "zip_code": "37402",
         "country": "US",
         "state": "TN",
-        "display_address": ["1423 Market St", "Chattanooga, TN 37402"]
+        "display_address": [
+          "1423 Market St",
+          "Chattanooga, TN 37402"
+        ]
       },
       "phone": "+14238032625",
       "display_phone": "(423) 803-2625",
@@ -3118,7 +3379,10 @@
         "latitude": 35.055821,
         "longitude": -85.309416
       },
-      "transactions": ["pickup", "delivery"],
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
       "price": "$",
       "location": {
         "address1": "100 Market St",
@@ -3128,7 +3392,11 @@
         "zip_code": "37402",
         "country": "US",
         "state": "TN",
-        "display_address": ["100 Market St", "Ste 104", "Chattanooga, TN 37402"]
+        "display_address": [
+          "100 Market St",
+          "Ste 104",
+          "Chattanooga, TN 37402"
+        ]
       },
       "phone": "+14235413925",
       "display_phone": "(423) 541-3925",
@@ -3161,7 +3429,10 @@
         "latitude": 35.02635,
         "longitude": -85.28157
       },
-      "transactions": ["pickup", "delivery"],
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
       "price": "$$",
       "location": {
         "address1": "1800 E Main St",
@@ -3171,7 +3442,10 @@
         "zip_code": "37404",
         "country": "US",
         "state": "TN",
-        "display_address": ["1800 E Main St", "Chattanooga, TN 37404"]
+        "display_address": [
+          "1800 E Main St",
+          "Chattanooga, TN 37404"
+        ]
       },
       "phone": "+14238035744",
       "display_phone": "(423) 803-5744",
@@ -3200,7 +3474,10 @@
         "latitude": 35.0484767762298,
         "longitude": -85.3088580620219
       },
-      "transactions": ["pickup", "delivery"],
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
       "price": "$",
       "location": {
         "address1": "11 E 7th St",
@@ -3210,7 +3487,10 @@
         "zip_code": "37402",
         "country": "US",
         "state": "TN",
-        "display_address": ["11 E 7th St", "Chattanooga, TN 37402"]
+        "display_address": [
+          "11 E 7th St",
+          "Chattanooga, TN 37402"
+        ]
       },
       "phone": "+14235217686",
       "display_phone": "(423) 521-7686",
@@ -3243,7 +3523,10 @@
         "latitude": 35.1160430908203,
         "longitude": -89.9450759887695
       },
-      "transactions": ["pickup", "delivery"],
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
       "price": "$$",
       "location": {
         "address1": "3519 Walker Ave",
@@ -3253,7 +3536,10 @@
         "zip_code": "38111",
         "country": "US",
         "state": "TN",
-        "display_address": ["3519 Walker Ave", "Memphis, TN 38111"]
+        "display_address": [
+          "3519 Walker Ave",
+          "Memphis, TN 38111"
+        ]
       },
       "phone": "+19013240144",
       "display_phone": "(901) 324-0144",
@@ -3282,7 +3568,10 @@
         "latitude": 35.14389,
         "longitude": -90.038164
       },
-      "transactions": ["pickup", "delivery"],
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
       "price": "$$",
       "location": {
         "address1": "670 Jefferson Ave",
@@ -3292,7 +3581,10 @@
         "zip_code": "38105",
         "country": "US",
         "state": "TN",
-        "display_address": ["670 Jefferson Ave", "Memphis, TN 38105"]
+        "display_address": [
+          "670 Jefferson Ave",
+          "Memphis, TN 38105"
+        ]
       },
       "phone": "+19015523144",
       "display_phone": "(901) 552-3144",
@@ -3325,7 +3617,9 @@
         "latitude": 35.1473867,
         "longitude": -89.970886
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "price": "$$",
       "location": {
         "address1": "2655 Broad Ave",
@@ -3335,7 +3629,10 @@
         "zip_code": "38112",
         "country": "US",
         "state": "TN",
-        "display_address": ["2655 Broad Ave", "Memphis, TN 38112"]
+        "display_address": [
+          "2655 Broad Ave",
+          "Memphis, TN 38112"
+        ]
       },
       "phone": "+19014055477",
       "display_phone": "(901) 405-5477",
@@ -3368,7 +3665,10 @@
         "latitude": 35.1172603,
         "longitude": -89.9459943
       },
-      "transactions": ["pickup", "delivery"],
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
       "price": "$",
       "location": {
         "address1": "525 S Highland St",
@@ -3378,7 +3678,10 @@
         "zip_code": "38111",
         "country": "US",
         "state": "TN",
-        "display_address": ["525 S Highland St", "Memphis, TN 38111"]
+        "display_address": [
+          "525 S Highland St",
+          "Memphis, TN 38111"
+        ]
       },
       "phone": "+19015902677",
       "display_phone": "(901) 590-2677",
@@ -3411,7 +3714,9 @@
         "latitude": 35.12832,
         "longitude": -89.9907449
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "price": "$",
       "location": {
         "address1": "641 S Cooper St",
@@ -3421,7 +3726,10 @@
         "zip_code": "38104",
         "country": "US",
         "state": "TN",
-        "display_address": ["641 S Cooper St", "Memphis, TN 38104"]
+        "display_address": [
+          "641 S Cooper St",
+          "Memphis, TN 38104"
+        ]
       },
       "phone": "+19012784994",
       "display_phone": "(901) 278-4994",
@@ -3454,7 +3762,10 @@
         "latitude": 35.1338612,
         "longitude": -90.0562979
       },
-      "transactions": ["pickup", "delivery"],
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
       "price": "$",
       "location": {
         "address1": "488 S 2nd St",
@@ -3464,7 +3775,10 @@
         "zip_code": "38103",
         "country": "US",
         "state": "TN",
-        "display_address": ["488 S 2nd St", "Memphis, TN 38103"]
+        "display_address": [
+          "488 S 2nd St",
+          "Memphis, TN 38103"
+        ]
       },
       "phone": "+19012074618",
       "display_phone": "(901) 207-4618",
@@ -3497,7 +3811,10 @@
         "latitude": 35.1541418,
         "longitude": -89.99744402200581
       },
-      "transactions": ["pickup", "delivery"],
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
       "price": "$$",
       "location": {
         "address1": "603 N Mclean Blvd",
@@ -3507,7 +3824,10 @@
         "zip_code": "38107",
         "country": "US",
         "state": "TN",
-        "display_address": ["603 N Mclean Blvd", "Memphis, TN 38107"]
+        "display_address": [
+          "603 N Mclean Blvd",
+          "Memphis, TN 38107"
+        ]
       },
       "phone": "+19017251718",
       "display_phone": "(901) 725-1718",
@@ -3540,7 +3860,9 @@
         "latitude": 35.1474834520246,
         "longitude": -89.9718277528882
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "price": "$$",
       "location": {
         "address1": "2625 Broad Ave",
@@ -3550,7 +3872,10 @@
         "zip_code": "38112",
         "country": "US",
         "state": "TN",
-        "display_address": ["2625 Broad Ave", "Memphis, TN 38112"]
+        "display_address": [
+          "2625 Broad Ave",
+          "Memphis, TN 38112"
+        ]
       },
       "phone": "+19012492406",
       "display_phone": "(901) 249-2406",
@@ -3579,7 +3904,10 @@
         "latitude": 35.1460860396951,
         "longitude": -89.9607128676505
       },
-      "transactions": ["pickup", "delivery"],
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
       "price": "$",
       "location": {
         "address1": "510 Tillman St",
@@ -3589,7 +3917,11 @@
         "zip_code": "38112",
         "country": "US",
         "state": "TN",
-        "display_address": ["510 Tillman St", "Ste 110", "Memphis, TN 38112"]
+        "display_address": [
+          "510 Tillman St",
+          "Ste 110",
+          "Memphis, TN 38112"
+        ]
       },
       "phone": "+19015098640",
       "display_phone": "(901) 509-8640",
@@ -3631,7 +3963,10 @@
         "zip_code": "38104",
         "country": "US",
         "state": "TN",
-        "display_address": ["585 Cooper St", "Memphis, TN 38104"]
+        "display_address": [
+          "585 Cooper St",
+          "Memphis, TN 38104"
+        ]
       },
       "phone": "+19014356141",
       "display_phone": "(901) 435-6141",
@@ -3674,7 +4009,10 @@
         "zip_code": "38103",
         "country": "US",
         "state": "TN",
-        "display_address": ["477 S Main St", "Memphis, TN 38103"]
+        "display_address": [
+          "477 S Main St",
+          "Memphis, TN 38103"
+        ]
       },
       "phone": "+19017017577",
       "display_phone": "(901) 701-7577",
@@ -3703,7 +4041,9 @@
         "latitude": 35.119734798971,
         "longitude": -89.989860898193
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "price": "$",
       "location": {
         "address1": "2170 Young Ave",
@@ -3713,7 +4053,10 @@
         "zip_code": "38104",
         "country": "US",
         "state": "TN",
-        "display_address": ["2170 Young Ave", "Memphis, TN 38104"]
+        "display_address": [
+          "2170 Young Ave",
+          "Memphis, TN 38104"
+        ]
       },
       "phone": "+19012727210",
       "display_phone": "(901) 272-7210",
@@ -3746,7 +4089,9 @@
         "latitude": 35.1363675,
         "longitude": -89.9917465
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "price": "$$",
       "location": {
         "address1": "2094 Trimble Pl",
@@ -3756,7 +4101,10 @@
         "zip_code": "38104",
         "country": "US",
         "state": "TN",
-        "display_address": ["2094 Trimble Pl", "Memphis, TN 38104"]
+        "display_address": [
+          "2094 Trimble Pl",
+          "Memphis, TN 38104"
+        ]
       },
       "phone": "+19017297916",
       "display_phone": "(901) 729-7916",
@@ -3781,7 +4129,10 @@
         "latitude": 35.10789,
         "longitude": -89.8615
       },
-      "transactions": ["pickup", "delivery"],
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
       "price": "$",
       "location": {
         "address1": "6000 Briarcrest Ave",
@@ -3791,7 +4142,10 @@
         "zip_code": "38120",
         "country": "US",
         "state": "TN",
-        "display_address": ["6000 Briarcrest Ave", "Memphis, TN 38120"]
+        "display_address": [
+          "6000 Briarcrest Ave",
+          "Memphis, TN 38120"
+        ]
       },
       "phone": "+19017620071",
       "display_phone": "(901) 762-0071",
@@ -3825,7 +4179,10 @@
         "zip_code": "38111",
         "country": "US",
         "state": "TN",
-        "display_address": ["395 S Highland St", "Memphis, TN 38111"]
+        "display_address": [
+          "395 S Highland St",
+          "Memphis, TN 38111"
+        ]
       },
       "phone": "+19016763699",
       "display_phone": "(901) 676-3699",
@@ -3858,7 +4215,9 @@
         "latitude": 35.14826,
         "longitude": -89.9675
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "location": {
         "address1": "583 Scott St",
         "address2": null,
@@ -3867,7 +4226,10 @@
         "zip_code": "38112",
         "country": "US",
         "state": "TN",
-        "display_address": ["583 Scott St", "Memphis, TN 38112"]
+        "display_address": [
+          "583 Scott St",
+          "Memphis, TN 38112"
+        ]
       },
       "phone": "+19017468587",
       "display_phone": "(901) 746-8587",
@@ -3910,7 +4272,10 @@
         "zip_code": "38103",
         "country": "US",
         "state": "TN",
-        "display_address": ["477 S Main St", "Memphis, TN 38103"]
+        "display_address": [
+          "477 S Main St",
+          "Memphis, TN 38103"
+        ]
       },
       "phone": "+19014028002",
       "display_phone": "(901) 402-8002",
@@ -3945,7 +4310,10 @@
         "zip_code": "38103",
         "country": "US",
         "state": "TN",
-        "display_address": ["150 Madison Ave", "Memphis, TN 38103"]
+        "display_address": [
+          "150 Madison Ave",
+          "Memphis, TN 38103"
+        ]
       },
       "phone": "+19015523852",
       "display_phone": "(901) 552-3852",
@@ -3974,7 +4342,10 @@
         "latitude": 35.1168363,
         "longitude": -89.908086
       },
-      "transactions": ["pickup", "delivery"],
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
       "price": "$",
       "location": {
         "address1": "4610 Poplar Ave",
@@ -3984,7 +4355,10 @@
         "zip_code": "38117",
         "country": "US",
         "state": "TN",
-        "display_address": ["4610 Poplar Ave", "Memphis, TN 38117"]
+        "display_address": [
+          "4610 Poplar Ave",
+          "Memphis, TN 38117"
+        ]
       },
       "phone": "+19015523165",
       "display_phone": "(901) 552-3165",
@@ -4026,7 +4400,10 @@
         "zip_code": "38103",
         "country": "US",
         "state": "TN",
-        "display_address": ["496 Tennessee St", "Memphis, TN 38103"]
+        "display_address": [
+          "496 Tennessee St",
+          "Memphis, TN 38103"
+        ]
       },
       "phone": "+19013104341",
       "display_phone": "(901) 310-4341",
@@ -4069,7 +4446,10 @@
         "zip_code": "38501",
         "country": "US",
         "state": "TN",
-        "display_address": ["17 W Spring St", "Cookeville, TN 38501"]
+        "display_address": [
+          "17 W Spring St",
+          "Cookeville, TN 38501"
+        ]
       },
       "phone": "+19315592326",
       "display_phone": "(931) 559-2326",
@@ -4104,7 +4484,10 @@
         "zip_code": "38501",
         "country": "US",
         "state": "TN",
-        "display_address": ["230 E Broad St", "Cookeville, TN 38501"]
+        "display_address": [
+          "230 E Broad St",
+          "Cookeville, TN 38501"
+        ]
       },
       "phone": "+19313722201",
       "display_phone": "(931) 372-2201",
@@ -4138,7 +4521,10 @@
         "zip_code": "38501",
         "country": "US",
         "state": "TN",
-        "display_address": ["55 N Walnut Ave", "Cookeville, TN 38501"]
+        "display_address": [
+          "55 N Walnut Ave",
+          "Cookeville, TN 38501"
+        ]
       },
       "phone": "",
       "display_phone": "",
@@ -4177,7 +4563,10 @@
         "zip_code": "38501",
         "country": "US",
         "state": "TN",
-        "display_address": ["119 W Broad St", "Cookeville, TN 38501"]
+        "display_address": [
+          "119 W Broad St",
+          "Cookeville, TN 38501"
+        ]
       },
       "phone": "+19315282732",
       "display_phone": "(931) 528-2732",
@@ -4206,7 +4595,9 @@
         "latitude": 36.164232,
         "longitude": -85.507308
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "location": {
         "address1": "43 W Broad St",
         "address2": "",
@@ -4215,7 +4606,10 @@
         "zip_code": "38501",
         "country": "US",
         "state": "TN",
-        "display_address": ["43 W Broad St", "Cookeville, TN 38501"]
+        "display_address": [
+          "43 W Broad St",
+          "Cookeville, TN 38501"
+        ]
       },
       "phone": "+19318540017",
       "display_phone": "(931) 854-0017",
@@ -4254,7 +4648,10 @@
         "zip_code": "38501",
         "country": "US",
         "state": "TN",
-        "display_address": ["829 East Spring St", "Cookeville, TN 38501"]
+        "display_address": [
+          "829 East Spring St",
+          "Cookeville, TN 38501"
+        ]
       },
       "phone": "+19315282120",
       "display_phone": "(931) 528-2120",
@@ -4296,7 +4693,10 @@
         "zip_code": "38506",
         "country": "US",
         "state": "TN",
-        "display_address": ["1590 E Spring St", "Cookeville, TN 38506"]
+        "display_address": [
+          "1590 E Spring St",
+          "Cookeville, TN 38506"
+        ]
       },
       "phone": "+19317541198",
       "display_phone": "(931) 754-1198",
@@ -4335,7 +4735,10 @@
         "zip_code": "38501",
         "country": "US",
         "state": "TN",
-        "display_address": ["157 S Jefferson Ave", "Cookeville, TN 38501"]
+        "display_address": [
+          "157 S Jefferson Ave",
+          "Cookeville, TN 38501"
+        ]
       },
       "phone": "+19315208906",
       "display_phone": "(931) 520-8906",
@@ -4420,7 +4823,10 @@
         "zip_code": "38501",
         "country": "US",
         "state": "TN",
-        "display_address": ["980 S Jefferson Ave", "Cookeville, TN 38501"]
+        "display_address": [
+          "980 S Jefferson Ave",
+          "Cookeville, TN 38501"
+        ]
       },
       "phone": "+19318541450",
       "display_phone": "(931) 854-1450",
@@ -4462,7 +4868,10 @@
         "zip_code": "38501",
         "country": "US",
         "state": "TN",
-        "display_address": ["427 N Willow Ave", "Cookeville, TN 38501"]
+        "display_address": [
+          "427 N Willow Ave",
+          "Cookeville, TN 38501"
+        ]
       },
       "phone": "+19316446197",
       "display_phone": "(931) 644-6197",
@@ -4496,7 +4905,10 @@
         "zip_code": "38501",
         "country": "US",
         "state": "TN",
-        "display_address": ["601 Rich Froning Way", "Cookeville, TN 38501"]
+        "display_address": [
+          "601 Rich Froning Way",
+          "Cookeville, TN 38501"
+        ]
       },
       "phone": "",
       "display_phone": "",
@@ -4538,7 +4950,10 @@
         "zip_code": "38501",
         "country": "US",
         "state": "TN",
-        "display_address": ["596A South Jefferson Ave", "Cookeville, TN 38501"]
+        "display_address": [
+          "596A South Jefferson Ave",
+          "Cookeville, TN 38501"
+        ]
       },
       "phone": "+19312140319",
       "display_phone": "(931) 214-0319",
@@ -4581,7 +4996,10 @@
         "zip_code": "38501",
         "country": "US",
         "state": "TN",
-        "display_address": ["515 S Willow Ave", "Cookeville, TN 38501"]
+        "display_address": [
+          "515 S Willow Ave",
+          "Cookeville, TN 38501"
+        ]
       },
       "phone": "+19315280170",
       "display_phone": "(931) 528-0170",
@@ -4624,7 +5042,10 @@
         "zip_code": "38501",
         "country": "US",
         "state": "TN",
-        "display_address": ["1001 S Jefferson St", "Cookeville, TN 38501"]
+        "display_address": [
+          "1001 S Jefferson St",
+          "Cookeville, TN 38501"
+        ]
       },
       "phone": "+19315281010",
       "display_phone": "(931) 528-1010",
@@ -4658,7 +5079,10 @@
         "zip_code": "38501",
         "country": "US",
         "state": "TN",
-        "display_address": ["548 S Willow Ave", "Cookeville, TN 38501"]
+        "display_address": [
+          "548 S Willow Ave",
+          "Cookeville, TN 38501"
+        ]
       },
       "phone": "+19319012039",
       "display_phone": "(931) 901-2039",
@@ -4701,7 +5125,10 @@
         "zip_code": "38506",
         "country": "US",
         "state": "TN",
-        "display_address": ["300 Bigmac Dr", "Algood, TN 38506"]
+        "display_address": [
+          "300 Bigmac Dr",
+          "Algood, TN 38506"
+        ]
       },
       "phone": "+19315373330",
       "display_phone": "(931) 537-3330",
@@ -4743,7 +5170,9 @@
         "zip_code": "38506",
         "country": "US",
         "state": "TN",
-        "display_address": ["Cookeville, TN 38506"]
+        "display_address": [
+          "Cookeville, TN 38506"
+        ]
       },
       "phone": "+19313913711",
       "display_phone": "(931) 391-3711",
@@ -4776,7 +5205,9 @@
         "latitude": 36.182833,
         "longitude": -85.459644
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "location": {
         "address1": "635 West Main St",
         "address2": "",
@@ -4785,7 +5216,10 @@
         "zip_code": "38506",
         "country": "US",
         "state": "TN",
-        "display_address": ["635 West Main St", "Algood, TN 38506"]
+        "display_address": [
+          "635 West Main St",
+          "Algood, TN 38506"
+        ]
       },
       "phone": "+19315372121",
       "display_phone": "(931) 537-2121",
@@ -4818,7 +5252,10 @@
         "latitude": 35.85717,
         "longitude": -86.42793
       },
-      "transactions": ["pickup", "delivery"],
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
       "price": "$$",
       "location": {
         "address1": "1911 Medical Ctr Pkwy",
@@ -4865,7 +5302,10 @@
         "latitude": 35.8604399,
         "longitude": -86.39118
       },
-      "transactions": ["pickup", "delivery"],
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
       "price": "$",
       "location": {
         "address1": "1311 Memorial Blvd",
@@ -4875,7 +5315,10 @@
         "zip_code": "37129",
         "country": "US",
         "state": "TN",
-        "display_address": ["1311 Memorial Blvd", "Murfreesboro, TN 37129"]
+        "display_address": [
+          "1311 Memorial Blvd",
+          "Murfreesboro, TN 37129"
+        ]
       },
       "phone": "+16158903129",
       "display_phone": "(615) 890-3129",
@@ -4918,7 +5361,10 @@
         "zip_code": "37130",
         "country": "US",
         "state": "TN",
-        "display_address": ["13 S Public Square", "Murfreesboro, TN 37130"]
+        "display_address": [
+          "13 S Public Square",
+          "Murfreesboro, TN 37130"
+        ]
       },
       "phone": "+16159003282",
       "display_phone": "(615) 900-3282",
@@ -4997,7 +5443,9 @@
         "latitude": 35.84678,
         "longitude": -86.3911113
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "price": "$",
       "location": {
         "address1": "128 N Church St",
@@ -5007,7 +5455,10 @@
         "zip_code": "37130",
         "country": "US",
         "state": "TN",
-        "display_address": ["128 N Church St", "Murfreesboro, TN 37130"]
+        "display_address": [
+          "128 N Church St",
+          "Murfreesboro, TN 37130"
+        ]
       },
       "phone": "+16159628086",
       "display_phone": "(615) 962-8086",
@@ -5040,7 +5491,9 @@
         "latitude": 35.86058,
         "longitude": -86.4175839
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "location": {
         "address1": "1440 Medical Center Pkwy",
         "address2": "Ste A",
@@ -5095,7 +5548,10 @@
         "zip_code": "37130",
         "country": "US",
         "state": "TN",
-        "display_address": ["115 N Maple St", "Murfreesboro, TN 37130"]
+        "display_address": [
+          "115 N Maple St",
+          "Murfreesboro, TN 37130"
+        ]
       },
       "phone": "+16159001676",
       "display_phone": "(615) 900-1676",
@@ -5124,7 +5580,10 @@
         "latitude": 35.8486955,
         "longitude": -86.39516067
       },
-      "transactions": ["pickup", "delivery"],
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
       "price": "$",
       "location": {
         "address1": "410 W Lytle St",
@@ -5134,7 +5593,10 @@
         "zip_code": "37130",
         "country": "US",
         "state": "TN",
-        "display_address": ["410 W Lytle St", "Murfreesboro, TN 37130"]
+        "display_address": [
+          "410 W Lytle St",
+          "Murfreesboro, TN 37130"
+        ]
       },
       "phone": "+16156247060",
       "display_phone": "(615) 624-7060",
@@ -5167,7 +5629,10 @@
         "latitude": 35.8601072514115,
         "longitude": -86.4290551552619
       },
-      "transactions": ["pickup", "delivery"],
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
       "price": "$",
       "location": {
         "address1": "836 N Thompson Ln",
@@ -5214,7 +5679,9 @@
         "latitude": 35.8276819463,
         "longitude": -86.4536580071
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "price": "$$",
       "location": {
         "address1": "1733 Saint Andrews",
@@ -5261,7 +5728,10 @@
         "latitude": 35.87003531,
         "longitude": -86.38719674
       },
-      "transactions": ["pickup", "delivery"],
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
       "price": "$",
       "location": {
         "address1": "129 Mtcs Rd",
@@ -5271,7 +5741,10 @@
         "zip_code": "37129",
         "country": "US",
         "state": "TN",
-        "display_address": ["129 Mtcs Rd", "Murfreesboro, TN 37129"]
+        "display_address": [
+          "129 Mtcs Rd",
+          "Murfreesboro, TN 37129"
+        ]
       },
       "phone": "+16156248169",
       "display_phone": "(615) 624-8169",
@@ -5304,7 +5777,10 @@
         "latitude": 35.84434206,
         "longitude": -86.44871408
       },
-      "transactions": ["pickup", "delivery"],
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
       "price": "$",
       "location": {
         "address1": "2863 Old Fort Pkwy",
@@ -5314,7 +5790,10 @@
         "zip_code": "37128",
         "country": "US",
         "state": "TN",
-        "display_address": ["2863 Old Fort Pkwy", "Murfreesboro, TN 37128"]
+        "display_address": [
+          "2863 Old Fort Pkwy",
+          "Murfreesboro, TN 37128"
+        ]
       },
       "phone": "+16159003324",
       "display_phone": "(615) 900-3324",
@@ -5357,7 +5836,10 @@
         "zip_code": "37130",
         "country": "US",
         "state": "TN",
-        "display_address": ["13 S Public Square", "Murfreesboro, TN 37130"]
+        "display_address": [
+          "13 S Public Square",
+          "Murfreesboro, TN 37130"
+        ]
       },
       "phone": "+16159003282",
       "display_phone": "(615) 900-3282",
@@ -5395,7 +5877,10 @@
         "zip_code": "37129",
         "country": "US",
         "state": "TN",
-        "display_address": ["217 N Thompson Ln", "Murfreesboro, TN 37129"]
+        "display_address": [
+          "217 N Thompson Ln",
+          "Murfreesboro, TN 37129"
+        ]
       },
       "phone": "+14793589274",
       "display_phone": "(479) 358-9274",
@@ -5424,7 +5909,9 @@
         "latitude": 35.86131,
         "longitude": -86.417286
       },
-      "transactions": ["delivery"],
+      "transactions": [
+        "delivery"
+      ],
       "price": "$$",
       "location": {
         "address1": "1500 Medical Center Pkwy",
@@ -5481,7 +5968,10 @@
         "zip_code": "37129",
         "country": "US",
         "state": "TN",
-        "display_address": ["1798 W Northfield Blvd", "Murfreesboro, TN 37129"]
+        "display_address": [
+          "1798 W Northfield Blvd",
+          "Murfreesboro, TN 37129"
+        ]
       },
       "phone": "+16159628681",
       "display_phone": "(615) 962-8681",
@@ -5523,7 +6013,10 @@
         "zip_code": "37130",
         "country": "US",
         "state": "TN",
-        "display_address": ["11 S Public Square", "Murfreesboro, TN 37130"]
+        "display_address": [
+          "11 S Public Square",
+          "Murfreesboro, TN 37130"
+        ]
       },
       "phone": "+16154107270",
       "display_phone": "(615) 410-7270",
@@ -5556,7 +6049,10 @@
         "latitude": 35.8642205,
         "longitude": -86.4469695
       },
-      "transactions": ["pickup", "delivery"],
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
       "price": "$$",
       "location": {
         "address1": "2855 Medical Center Pkwy",
@@ -5611,7 +6107,10 @@
         "zip_code": "37130",
         "country": "US",
         "state": "TN",
-        "display_address": ["115 N Maple St", "Murfreesboro, TN 37130"]
+        "display_address": [
+          "115 N Maple St",
+          "Murfreesboro, TN 37130"
+        ]
       },
       "phone": "+16159001676",
       "display_phone": "(615) 900-1676",
@@ -5644,7 +6143,10 @@
         "latitude": 35.84367645632272,
         "longitude": -86.4412792318423
       },
-      "transactions": ["pickup", "delivery"],
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
       "price": "$$",
       "location": {
         "address1": "2441 Old Fort Pkwy",
@@ -5747,7 +6249,61 @@
       "time": "1:00pm",
       "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha.",
       "businessId": "ReX09lhufLTAx19krkltDA",
-      "attendeesId": [2, 9, 6, 11]
+      "attendeesId": [
+        9,
+        6,
+        11,
+        2
+      ],
+      "business": {
+        "id": "ReX09lhufLTAx19krkltDA",
+        "alias": "fido-nashville",
+        "name": "Fido",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0MDc2qOqQryOrl5M9LF9zg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/fido-nashville?adjust_creative=xHUh4H8gU4oEypJVLjfS3A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=xHUh4H8gU4oEypJVLjfS3A",
+        "review_count": 1343,
+        "categories": [
+          {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+          },
+          {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+          },
+          {
+            "alias": "bakeries",
+            "title": "Bakeries"
+          }
+        ],
+        "rating": 4,
+        "coordinates": {
+          "latitude": 36.13634127234916,
+          "longitude": -86.80078935490126
+        },
+        "transactions": [
+          "delivery",
+          "pickup"
+        ],
+        "price": "$$",
+        "location": {
+          "address1": "1812 21st Ave S",
+          "address2": "",
+          "address3": "",
+          "city": "Nashville",
+          "zip_code": "37212",
+          "country": "US",
+          "state": "TN",
+          "display_address": [
+            "1812 21st Ave S",
+            "Nashville, TN 37212"
+          ]
+        },
+        "phone": "+16157773436",
+        "display_phone": "(615) 777-3436",
+        "distance": 2279.70948733781
+      }
     },
     {
       "id": 2,
@@ -5756,7 +6312,12 @@
       "time": "10:00am",
       "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha.",
       "businessId": "lTRB2wSnF_CqSJpfxBII7g",
-      "attendeesId": [4, 3, 5, 9]
+      "attendeesId": [
+        4,
+        3,
+        5,
+        9
+      ]
     },
     {
       "id": 3,
@@ -5765,7 +6326,11 @@
       "time": "11:00am",
       "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha.",
       "businessId": "ckOGDVdN8yjEL1XPL6b0Fg",
-      "attendeesId": [14, 15, 16],
+      "attendeesId": [
+        14,
+        15,
+        16
+      ],
       "business": {
         "id": "ckOGDVdN8yjEL1XPL6b0Fg",
         "alias": "wild-love-bakehouse-knoxville",
@@ -5789,7 +6354,9 @@
           "latitude": 35.9854210431581,
           "longitude": -83.9344514632988
         },
-        "transactions": ["delivery"],
+        "transactions": [
+          "delivery"
+        ],
         "price": "$$",
         "location": {
           "address1": "1625 N Central St",
@@ -5799,7 +6366,10 @@
           "zip_code": "37917",
           "country": "US",
           "state": "TN",
-          "display_address": ["1625 N Central St", "Knoxville, TN 37917"]
+          "display_address": [
+            "1625 N Central St",
+            "Knoxville, TN 37917"
+          ]
         },
         "phone": "+18652008078",
         "display_phone": "(865) 200-8078",
@@ -5813,7 +6383,12 @@
       "time": "3:00pm",
       "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha.",
       "businessId": "hqjJ-rgC20QZK-wzp2mu6A",
-      "attendeesId": [13, 12, 8, 10]
+      "attendeesId": [
+        13,
+        12,
+        8,
+        10
+      ]
     },
     {
       "id": 5,
@@ -5822,7 +6397,12 @@
       "time": "11:00am",
       "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha.",
       "businessId": "_vZSIIqBsw_IUmxqNVOALA",
-      "attendeesId": [2, 9, 6, 11]
+      "attendeesId": [
+        2,
+        9,
+        6,
+        11
+      ]
     },
     {
       "id": 6,
@@ -5831,7 +6411,13 @@
       "time": "11:00am",
       "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha.",
       "businessId": "E4t5iqYooFycQsBtAfJKQQ",
-      "attendeesId": [4, 5, 11, 13, 15],
+      "attendeesId": [
+        4,
+        5,
+        11,
+        13,
+        15
+      ],
       "business": {
         "id": "E4t5iqYooFycQsBtAfJKQQ",
         "alias": "mahalo-coffee-roasters-knoxville-4",
@@ -5868,7 +6454,10 @@
           "zip_code": "37902",
           "country": "US",
           "state": "TN",
-          "display_address": ["513 Union Ave", "Knoxville, TN 37902"]
+          "display_address": [
+            "513 Union Ave",
+            "Knoxville, TN 37902"
+          ]
         },
         "phone": "",
         "display_phone": "",
@@ -5882,7 +6471,13 @@
       "time": "09:00am",
       "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha.",
       "businessId": "85AQYvKeJfYIDwbl4Kpxsw",
-      "attendeesId": [2, 6, 7, 8, 9]
+      "attendeesId": [
+        2,
+        6,
+        7,
+        8,
+        9
+      ]
     },
     {
       "id": 8,
@@ -5891,7 +6486,12 @@
       "time": "10:00am",
       "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha.",
       "businessId": "a8I21cIYjBKLZz3TjYcIXg",
-      "attendeesId": [10, 12, 11, 14]
+      "attendeesId": [
+        10,
+        12,
+        11,
+        14
+      ]
     },
     {
       "id": 9,
@@ -5900,7 +6500,12 @@
       "time": "3:00pm",
       "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha.",
       "businessId": "P3iRJEhh4ceOc0-W8YyjAQ",
-      "attendeesId": [16, 14, 12, 10]
+      "attendeesId": [
+        16,
+        14,
+        12,
+        10
+      ]
     },
     {
       "id": 10,
@@ -5909,7 +6514,13 @@
       "time": "1:00pm",
       "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha.",
       "businessId": "E9AvP9cxfobpFgrz03bE6g",
-      "attendeesId": [4, 6, 8, 3, 5]
+      "attendeesId": [
+        4,
+        6,
+        8,
+        3,
+        5
+      ]
     },
     {
       "id": 11,
@@ -5918,7 +6529,19 @@
       "time": "1:00pm",
       "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha.",
       "businessId": "wUZXm4KN2wIqlfkvXVZXUw",
-      "attendeesId": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+      "attendeesId": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
     },
     {
       "id": 12,
@@ -5927,7 +6550,13 @@
       "time": "8:00am",
       "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha.",
       "businessId": "Jt-EoCoNtMJ7xqOhAZwmiA",
-      "attendeesId": [4, 6, 8, 3, 5]
+      "attendeesId": [
+        4,
+        6,
+        8,
+        3,
+        5
+      ]
     },
     {
       "name": "Aloha Coffee Hang",
@@ -5935,7 +6564,9 @@
       "time": "10:00am",
       "details": "Quick meet up, pop in and out at will!",
       "businessId": "AAjWn2Rk1yiVhCJgSiZiGg",
-      "attendeesId": [2],
+      "attendeesId": [
+        2
+      ],
       "id": 13,
       "business": {
         "id": "AAjWn2Rk1yiVhCJgSiZiGg",
@@ -5973,7 +6604,10 @@
           "zip_code": "37849",
           "country": "US",
           "state": "TN",
-          "display_address": ["1317 E Emory Rd", "Knoxville, TN 37849"]
+          "display_address": [
+            "1317 E Emory Rd",
+            "Knoxville, TN 37849"
+          ]
         },
         "phone": "",
         "display_phone": "",
