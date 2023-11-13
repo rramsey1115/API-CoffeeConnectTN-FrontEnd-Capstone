@@ -5747,7 +5747,50 @@
       "time": "1:00pm",
       "details": "Sweet siphon filter percolator steamed affogato body dark. Beans, pumpkin spice froth, wings dark breve java doppio. Pumpkin spice brewed java ristretto caramelization, french press, cup, instant crema fair trade galão mocha.",
       "businessId": "ReX09lhufLTAx19krkltDA",
-      "attendeesId": [2, 9, 6, 11]
+      "attendeesId": [9, 6, 11, 2],
+      "business": {
+        "id": "ReX09lhufLTAx19krkltDA",
+        "alias": "fido-nashville",
+        "name": "Fido",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0MDc2qOqQryOrl5M9LF9zg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/fido-nashville?adjust_creative=xHUh4H8gU4oEypJVLjfS3A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=xHUh4H8gU4oEypJVLjfS3A",
+        "review_count": 1343,
+        "categories": [
+          {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+          },
+          {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+          },
+          {
+            "alias": "bakeries",
+            "title": "Bakeries"
+          }
+        ],
+        "rating": 4,
+        "coordinates": {
+          "latitude": 36.13634127234916,
+          "longitude": -86.80078935490126
+        },
+        "transactions": ["delivery", "pickup"],
+        "price": "$$",
+        "location": {
+          "address1": "1812 21st Ave S",
+          "address2": "",
+          "address3": "",
+          "city": "Nashville",
+          "zip_code": "37212",
+          "country": "US",
+          "state": "TN",
+          "display_address": ["1812 21st Ave S", "Nashville, TN 37212"]
+        },
+        "phone": "+16157773436",
+        "display_phone": "(615) 777-3436",
+        "distance": 2279.70948733781
+      }
     },
     {
       "id": 2,
